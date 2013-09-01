@@ -1,0 +1,822 @@
+Mon numéro 0785176492
+Mon mot de passe VD6G42
+La clé de recharge 99716153488325
+
+http://lgru.pad.constantvzw.org:8000/ep/padlist/all-pads
+http://lgru.pad.constantvzw.org:8000/108
+http://lgru.pad.constantvzw.org:8000/170
+http://lgru.pad.constantvzw.org:8000/148
+http://lgru.pad.constantvzw.org:8000/158
+http://lgru.pad.constantvzw.org:8000/163
+http://lgru.pad.constantvzw.org:8000/151
+http://lgru.pad.constantvzw.org:8000/120
+http://lgru.pad.constantvzw.org:8000/145
+
+
+notes: http://lgru.pad.constantvzw.org:8000/109
+Where is design (change title?) Devices and Denial, existencial crisis
+"The format is intended as a single format  that publishers and conversion houses can use in-house, as well as for distribution and sale."
+-- From the ePub definition
+In this essay we contemplate the dilemma of locating design in a context of federated publishing.  Books are no longer simply individuallly designed paper objects.  In an environment of federated publishing, they are published in different formats such as ePubs --the official standard for digital books-- but also as HTML pages, and PDF documents. Books are read in e-readers as well as in web browsers; printed at home or delivered as discrete files that require their own software for rendering. The ontological stability of books is cut across myriad standards, formats and devices. In addition to being embodied in different hardware and software platforms, books are also edited in discontinuous ways where source material and modifications may come from different places, at different moments. The book is now a fractious environment and invites new questions of first locating design amid such disjointed ecologies, but also to think about what opportunities for design open up when the final output is no longer a stable object.
+However, this assemblage view of book design contrasts with extant understandings of design and the subsequent division of labor in design work. In the current understandings of design, we find a grossly simplified division with publishing entrepreneurs and "users" (formerly known as "readers") on the other. In this configuration, the designer easily becomes a caricature of a nostalgic being, always longing for a time when books were still uniquely shaped single-master artefacts. Designers by this caricature are desirious of pixel perfect specifities if not of cold glue binding and the smell of fresh ink on woven paper.
+Federated  publishing is a reality. Strangely, the way designers (can) work seems more formatted than ever, and we believe the technical infrastructure  that we see emerging, is part of this problem. Only very rarely does our  practice reflect the rich intermingling between form, content and  medium that open up. How can we make the fact that design is embedded in  chains of dependencies into an asset? How can we prevent  design/artistic practice from being split apart from other realities?
+Stakeholders
+"We invite representatives from following communities to submit papers: Publishers digital books production (including magazines and journals), Retailer/Bookshops (on line and off line), Manufacturers of eBooks readers devices, Providers of eBooks readers applications software, Providers of eBooks authoring tools, eBook related software contributors to browser cores, Distributors (eBook server), News agencies, Libraries, Search engines , Specialized search and web analytics, Library management software companies, Relevant standard setting institutions, eBooks service providers, Cloud-based eReading platform providers, Accessibility companies and institutions, Localization companies, Consumers, Academic researchers in digital publishing, Industry consultants"
+-- eBooks: Great Expectations for Web Standards http://www.w3.org/2012/08/electronic-books/expected.html
+Around the table at a recent meeting of the International Digital Publishing forum, we can find several demanding publishers discussing how to speed up bookproduction, interactively connecting stock management to content delivery in the overall effort to create reliable reflowable output across myriad devices and platforms. Eager reading system vendors are  trying to be just compatible enough to cut off their competition and disability rights groups that pressure for accessible content. At the same table, leading global type providers promise great reading experiences. [http://idpf.org/epub/30/wg-charter] They share a comon understanding of what ebooks can look like and how they can be read. [explain better]
+[expand historical connections] This started long ago. First step in the disconnect between producer -- printer and typographer is ~desktop publishing (typesetter as transitional figure). Webdesign + stylesheets.
+There are no bookdesigners at this table. In the current climate of cross-media publishing, they are useful for beautifying stylesheets, which disconnects bookdesign from an approach that considers the intertwining of form, content and context, relating to materiality! as its core qualities. [expended later]
+[don't talk about design and "layouts"]
+High Fidelity
+"Think about how challenging that is. As I mentioned in a meeting recently, it’s like trying to create a totally immersive, 3D movie and have the  same product gracefully degrade for playback on an AM radio station."
+-- Joe Wikert, Graceful eBook Degradation http://toc.oreilly.com/2012/08/graceful-ebook-degradation.html
+There is a clear relation between a well supported standard and space for design that we might recognize from the situation in 2000, when browsers would each render webpages at will. Designers understood that a commitment to webstandards would allow them to be less dependent on browsers. [explain better]
+[transition]
+In discussions about finding a workable standard for e-books, the concept of 'graceful degradation' has taken center stage. Graceful degradation is the idea that the system can continue to function in the event of the failure of one or more components. This principle is often contrasted with 'naive' systems that are designed in such a way that they would break down if only a single condition would not be met.
+Too often, qualities of design are conflated with high fidelity, where technical complexity is seen as top end.Take for example moving content between devices that support Full Colour output, and those ones with one-bit output. In the logic of 'graceful degradation', the lack of color can only be seen as a fault, as an absence of color. But the distinct graphic character of line-art could also be seen as a quality. The display of a 'book' designed for line art on a color device, can actually be considered as a significant degradation. With the idea of degradation comes a technocentric idea of hardware, where more is better, and larger is greater. 
+In this context, where fluidity of the distribution accross devices primes is prime, it is no suprise that the pixel-perfect obsessed designer is the first hurdle to jump over. This conflation of technology and design could be considered a form of "graceless optimization". 
+[explain better in relation to graceful degradation] Ultimately, it means separating  form and content as a principle to be able to split the container from the content and make form into style. Existing standards have separated the design process into content on one side and styling on the other; "semantic vs presentation". In XHTML  for instance we have seen a refinement of the specifications to separate the "structure" (templates), the "content" (database) and the "styling"  (CSS). While this division has useful implications in many ways [which ones?], it is also problematic in the sense that it tends to divide labor and format   tasks,  leading to weaker/poorer conceptions of design and authorship.
+More problematic even might be the kind of technocratic hierarchies that are built into 'fault tolerant' standards/fileformats for cross-media publishing. Current standards tell a story of how they are attached to a certain type of  production through their particular idea of optimization. Standards/file formats for this type of books are mainly developed and pushed for/by industry. They reflect a technocratic approach to "books" and force that same approach onto ideas of authorship, distribution and ultimately designers' tools and practices. And last but not least there are obvious ecological concerns that come with such "graceless optimization" [do you mean the market always pushing for the adoption by the consummers of the new products]
+Graceful optimization?
+"We want to dispel the myth that digital books can't also be crafted works  of visual design. Just as web design has evolved and matured, so too will ebooks, and book designers have a new medium available in which to  express their creativity."
+http://epubzengarden.com/about/
+cf http://csszengarden.com/
+[theatrical description of a working day at OSP]
+[why css and html so threatening to design tradition?]
+[standards as benefit to minimize work]
+[control in design...versus canvas space. with html can't control]
+[flow not about high end and low end, but different books. Do not pretend to be the same. Flow right now too linear. say more about this linearity -- digital materiality. What does this look like? Part of the experience to be designed]
+[different objects connected]
+<div class="stakeholderstyle">[apply style of first paragraph on stakeholders; from how standards are made to how they are wanting to be used] Current practices of webdesign, where designers are no longer confined to photoshop mockups but actively engage with html, css and javascript, hacking their way across the divide between content from style. This is even more present in contemporary typographic design, where there is no question about different stakeholders needing each other. This shows that designers do find ways to work with technology to circumvent this unfortunate  separation. Their generative designs suggest that other approaches to electronic bookdesign might be possible.</div>
+For designers of books the territory of work has moved far away from the layout of a single, specific output to the design of book systems that can in turn produce multiple outputs/formats. Potentially, designers could become participants in a more complex but interesting situation where they need to negotiate media technology with a larger set of actors. The form of the book would actively be defined through an amalgamate of processes happening at different moment and places in the process of making it, and not just be the unmutable result of historical events.
+[examples]
+e-pub is not like css: 
+Appearance of epub zengarden. Why this is good but also limited; old paradigm (applying the lessons of ccs) of style vs content. Current  webtechnologies hint at the fact that much more intelligent ideas of  relations between form and device, and maybe even between form, device  and content are possible. Even more, that designers are involved in developing work in this area. 
+https://developer.mozilla.org/en-US/docs/CSS/Media_queries
+[graceful optimization = stronger relation between form/context/content/materiality.
+designers   have historically been busy with this idea, coming to the point that   there isn't such a thing as the seperation of form and content.]
+[examples of how design touches content right now]
+- relational layout
+- Not only "styling" need to change according to the reading environment, but the content as well, meaning there are several books.
+- environmental responsive layout (device, but also connectivity and maybe sensors)
+To imagine the future of e-pub away from the desire for coherence and pixel-perfectness is based on our understanding that in bookpublishing design, production, authoring and distribution are deeply intertwingled, interlaced practices.
+What could be a standard for 'book systems' that engages with content at all levels (not only cosmetic). We accept that this might demand a rethinking of the full publishing infrastructure. Some explanations of, scenarios for how that might work. Bridge to contextual design.
+What we mean by contextual design is the understanding that if design is reflowable then it's components need to flow together, not only at the level of text characters but as the level of  layout. It would mean to reconsider the template not as a strict container but as a 'context' that generates a set of parameters for attraction, repulsion, between its components. 
+[was the book a stable context? how is it different with the myriad of devices on which an ebook can be read?]
+Elastic visuality. On the level of the template (specifying the relation between the element) but also at the level of the standard (eh what do we mean hum... can't remember) to open up the possibilities.
+A broken e-book made us think about taking battery life into the bookdesign. Another physiclity of reading is produced by the limited autonomy of the book.
+Reflow smaller type so less refresh?
+Going out with a bang - what would be the last event - going very bright
+Summary style, bullet points then keywords
+specific book and battery life - depending on the length of the book? 
+battery in relation to the way to go until the end of the book. The longer the book is, the faster you have to go to reach the end.
+Typography -- Eco typefaces -- what would be the equivalent of this:
+http://en.wikipedia.org/wiki/Ecofont
+http://www.thomashuotmarchand.com/typographie/minuscule/
+ecomode -- not complete refresh. A bookdesign includes decisions on it's eco modeness?
+Paradigm of bookdesign used to be a fixed page. Economy of refresh
+Designing for multiple fonts
+A book can suggest different fonts, lay-outs
+Community contributed designs for specific books, illustrations.
+"what edition are you reading?" Mixing styles.
+Active archives modes - collage
+different editions -- compare diffs
+changes in the structure
+markup 
+design a book for blind people. not a "disabled" version of the 
+aknowledging the relation between the reading environment/context and the design
+media queries, conditions
+<noscript> tag is also some kind of conditional trigger
+conditionnal trigger on the level of structure
+http://my.opera.com/ODIN/blog/2009/10/12/how-media-queries-allow-you-to-optimize-svg-icons-for-several-sizes
+ideas of cross-media in physical bookdesign balance weight, mobilty, lay-out, content.
+nowadays everything is always available on everything
+no technical restrictions, so how can context still matter?
+day and night reading
+what elements can the design respond to
+PAPER BOOK
+binding
+paper choice
+cover stock
+bladspiegel
+typography
+printing
+how, where illustrations are placed
+E-BOOK
+suggested styling
+relative sizes (if font is changed)
+mark-up
+cover design ?
+Other type of writing, structures.
+suggested style
+amount of characters book
+navigation
+websites content is written with web in mind. Different kind of navigation possible.
+ebooks are subordinated to the way of writing books, but physical books are until now the best devices to read linearbooks.
+if it breaks down it becomes a different book, not only on the level of design but also on the level of writing
+one website for 5 devices???
+or 5 websites for 5 devices?
+they are related but
+where is the cut-off?
+mutable design
+the browser on which you look at a website matters.
+current trend is to polish the differences -> continuity
+reeading a book on your e-ink device should be different: working from discontinuity
+acid test: what if you would turn the compliance result into a design-tool 
+where it breaks is also where it becomes specific
+see images at http://fr.wikipedia.org/wiki/Acid3
+working with difference rather than against.
+technologies:
+mobile vs desktop
+screen
+  - size
+  - resolution
+  - density
+  - color depth
+  - surface (matt / glossy etc.)
+  - refreshing rate (70 per s. vs manual refreshing)
+  - pixel arrangment (grid vs scattered)
+connected/not connected
+localized (gps /ip address/proximity: close to another device, close to your face etc.)
+orientation
+processing power
+battery
+script aware
+keyboard, user input devices
+microphone
+speakers
+taking a book and thinking about what could be it's ebook version
+alice in wonderland?
+Flatland?
+- many editions with peculiar designs
+- audio book librivox
+- gutenberg edition: ascii: hack of the super low res demand of gutenberg, like a statetment that images are essential to the book
+"reality is infinite, what level of reality are we dealing with?" -- Lilly
+Kinross on A4
+speed of reading
+the systems knows about its remaining "life".
+Duration of reading 
+Freeze 
+/////////////////////////////////////////
+Current standards such as ePub and other flavors of XML have a particular philosophy of optimization.  The ability of reflowing text, is basically all that this means. This   idea of optimal is rather 'economic'. It is typically based around  one-column text lay-outs; does not think about relations between page size and resolution, between amount of text per page, margin size etc.
+Maybe we should better start this introduction  by asking the question: 'Where in a standard can we locate the design  of a book?' 
+---
+What do we plan to do?
+to experiment with a responsive design that starts with the notion of difference btn devices versus trying to repair. to play with the fact that these dveices are different rather than trying to hide, or keep unexposed the differences. for example, early acid tests for browser: the relation is made betwen earl browser wars when it was about lack of compatability, how diff pages would be rendered. than designrs began developing tests for browsers--make it difficult for browser to render something which would reveal if browser was compatable with standard. imagination of what could be the same, what could be wrong. the test a priori assumes difference---aim is to come into compaliance. imagination of similarity. but potential is tha every browser renders something else. you can say they failed the exam, but also say that they invented something. so the experiment for flatland is to make three difference experiences of the same text. 
+encounter---how the document, the epub document encounter. don't want to limit discussion to devices? diff devices = diff reading situations. pocketbook versus coffeetable books. part of the design intention to design differently, not only because of diff materiality but also different reading situations. context includes more than devices. hiding in immersive design? through measuring position and tilt, these kinds of considerations is to make a device feel more "natural"--that a screen can have a sensor of lights an adjust the backlighting of a screen so that you don't notice that it's getting dark. calibration is to (~=)naturalize experiences [other word?]---devices-in-denial-mode. so responsive design is actually to deny human response. more about device invisibility.
+-in what ways are devices different
+-emphasis on screens, technical quality of screens: media queries, stylesheets for tty, tv, projection---for CSS2, now with CSS3 media future, widths, midwidths, maxwidths, heights, aspect ratio, color, color index, monochrome---max monochrome.
+why media queries, recent development in CSS in wave of responsive design because---these are the tools through which you build response. show limits of response--what are those limits?
+keeping a log of our experiment.
+Friday
+AL initiate repo 
+FS trying to find tools: Sigil seems weapon of choice but all li nux packages have been disabled.
+Compiling from source creates problems (QT). Trying to understand e-pub zips and how to edit them. Calibre maybe? Very awkward.
+FS adding e-pub etc. to repo; epub with illustrations simply mimics html (so no ascii)
+AL: Looking into media queries; only available for e-pub 3
+AL: Ebooks are basically a bunch of HTML/CSS files, how can I edit them with my usual tools? (vim) Looking for a vim plugin to edit zipped files...
+AL: typing "vim edit ebooks" in google only returns ebooks about vim
+AL: ebooks + git: avoid the compression situation so vim can track the content of the epub
+
+
+-----------------------------------------------
+
+about
+
+# Considering your tools
+## A reader for designers and developers
+http://reader.lgru.net/
+## Context
+Today's creation largely depends on digital tools. Far from being a neutral mean to an artistic achievement, those tools are actually opinionated: they carry values and are full of conventions about the way things “ought” to be done. Because of this, we think it is crucial to raise awareness amoung practitionners in order to make software and machines alike tools to think with (or against), and to let us speculate about future practices and invent tools to support them.
+Contrary to other contemporary fields of creation, there is little literature on those questions in the sphere of graphic design. This is why we felt it was important to bring together texts and showcases on this topic into one comprehensive corpus.
+With only two exceptions (?), all materials in this reader is available under licenses that invite re-use, distribution and re-appropriation. This means that texts can circulate freely, and be included in other digital and printed publications; can be translated and otherwise used as necessary.
+## A reader for designers and developers
+"Considering your tools" is aimed at students and professors involved in (digital) design, but can also provide professional designers and developers with necessary critical texts to better understand the relations between practice and tools.
+In the academic year of 2013/2014 the reader will for example be in use at École de Recherche Graphique (Brussels), Piet Zwart Institute Media Design (Rotterdam), La Cambre (Brussels) and Arte 10 (Madrid).
+http://pzwart.wdka.nl/home/
+http://www.artediez.es/
+http://www.lacambre.be/
+http://www.erg.be/erg/
+## Process
+The process of editing this publication involved selecting 15 texts written in French, English, and Spanish out of an initial collection of 130. The editorial team commissioned translations, negotiated rights and invited authors to develop contributions that could cover missing areas.
+The editiorial team consisted of Stéphanie Vilayphiou and Alexandre Leray supported by a group of co-editors representing different competences and language areas. A mailing-list allowed a larger group of interested participants to contribute.
+The reader is first of all a web-publication available at http://reader.lgru.net/. We are currently working with a publisher to develop the materials further into a printed book. Of course you are welcome to print your own versions.
+## Content
+The reader is composed of 5 chapters.
+"Discrete Gestures" is about how our body is informed by our digital tools. "Reading Interfaces" takes on different approaches to computer literacy. "The making of the standards" is about the social and technical processes behind the elaboration of norms. "Myriadic composition tools" tackles the question of software as a cultural object through the lens of digital typography. Finally, "Shaping Processes" discusses methodologies for open and critical collective practices.
+For each chapter, a short note problematize the questions behind the texts. A text by Belgian philosopher Isabelle Stengers and a general Introduction give a broader picture on the question of tools and free culture in relation to practices.
+
+
+-----------------------------
+
+
+introductions
+
+Consedring your tools
+
+    factsheet Adobe, what's the problem with the capitalist monoculture?
+
+intro générale: bureaux de graphistes colonisés par une seule compagnie
+rassembler des faits, des chiffres, CEO d'adobe le mec le plus riche du monde
+
+    Awkward Gestures
+
+    discussion avec stengers - http://lgru.pad.constantvzw.org:8000/158
+
+Isabelle Stengers, Introductory Notes on an Ecology of Practices
+«Approaching a practice then means approaching it as it diverges, that is, feeling its borders, experimenting with the questions which practitioners may accept as relevant, even if they are not their own questions, rather than posing insulting questions that would lead them to mobilise and transform the border into a defence against their outside.»
+We think of the «possibility to combine ideas which seem incompatible in the first place. Which allows to go from the "or" to the "and", and taking fully into account an "and-itian" practice, close to the one of the hacker since he sticks out from the duality technophobia/technophilia, and to invent an "and", meaning another way of thinking the industrial world: " The exemplar character of the fights lead by the actors of the Free software movement stands in that, for the first time, workers coming from the industrial workd invent a novel organization of work and of economy which made deproletarization its principle and its credo."» [OSP, Relearn, 2011]
+Not choosing the fastest or easiest way: «Le logiciel  libre est foncièrement baroque. L’esprit classique avance droit devant  lui. L’esprit baroque s’offre des détours malicieux, délicieux. Ce n’est  pas qu’il veuille arriver plus vite. Ce n’est même pas qu’il veuille  arriver. C’est qu’il veut jouir du voyage.» [extraits de Buenos Aires de Alicia Dujovne Ortiz. Des villes, éditions du Champ Vallon].
+Resilience: transform catastrophe into power. Take advantage of a moment of crisis to invent and catalyze energies. Bring sense back by escaping from graphic design as a service industry to invent new forms of collaboration, fertile and surprising for everyone: clients, designers, the public.
+«An ecology of practices as a tool to think». Techniques of self and techniques of care. How are these techniques managed with technologies, with an approach to software as a tool to think with rather than a simple functional agent?
+Avoid  monoculture. Free software, because they aren't influenced by marketing  matters, offer a great number of approaches. They don't necessarily try  to satisfy the largest number of people and are often written for very  specific, sometimes private, purposes.
+Shifting from the axis in order to break the cogs of a too perfect mechanics.
+Speak of competences rather than mastering, getting out of our comfort zone. 
+monoculture/rêve majoritaire: plutôt que de simplement dire "on veut de la diversité", dire ce que ça détruit
+préservation. Désir d'un monde fixé/figé
+pas tellement dans les textes qu'on a choisi.
+rester dans l'inconnu, être à la marge
+intro: critiquer (en bien/en mal) cette idée de la conservation dans le logiciel libre.
+dimension de la préservation de la variété des pratiques. Ce qu'on préserve, c'est la possibilité d'hétérogénéité.
+tex: geste préservateur (et en même temps)
+ou est le politique?
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+Discrete gestures
+Discrete gestures focuses on how bodies and devices might inform and influence each other. We felt it was important to talk about the way tools represent physical gestures, and to ask ourselves what other experiences we might have as a result of this act of 'rendering discrete'.
+The computer is often considered as the most efficient machine ever created because it can turn any data into binary information. Analog signals that feed the computer are filtered through the logic of electronic components and processed by a dense stack of software. From a technical point of view, "drawing on the screen" does not mean "leaving a trace" but rather "replaying the data collected". The representation of a gesture in a digital tool results from a translation between bits and flesh, a feedback loop that involves both sensing and acting. Where do we place sensuality in the relationship between humans and machines? When and how can the computer be an instrument, extending our sensory organs rather than being just a powerful tool? Beyond simulating the physical, can we feel mathematics and algorithms at work?
+The texts collected in this chapter therefore move from the perspective of 'tool' (used to perform an action) and 'instrument' (used to measure).
+Both Technique and The M formula show how tools mediate gestures, and how they participate in the traces we produce. Lessons Learned from Metafont tells the passionate adventure of the attempt to remediate calligraphic writing into a typographic system.
+Graffiti Markup Language is an example of writing specific bodily movements into a format that subsequently can allow for those gestures to be archived and performed in an altogether different medium or at another scale.
+Gesture of Writing and A Failed Love Affair with a Typewriter show how tools can shape bodies through physical and cultural constraints.
+Essay on Drawing Palettes and An essay of a visual collection on drawing curved vectors take the perspective of instrument that act as a probe to experience the world around us, whether physical or mathematical.
+
+    Gerrit Noordzij Technique (embodying gesture)
+
+    William A. Dwiggins The M formula (remediating gesture)
+
+    Evan Roth, Chris Sugrue, Theo Watson, and Jamie Wilkinson Graffiti Markup Language (embodying gesture)
+
+    Donald E. Knuth, Lessons Learned from Metafont (repart de la calligraphie et non de la calligraphie, remédiatise la calligraphie)
+
+    Vilém Flusser Gesture of Writing (tools contraints on body)
+
+    Friedrich A. Kittler A Failed Love Affair with a Typewriter (tools contraints on body)
+
+    George Francis Essay on Drawing Palettes (sensing or representing mathematics)
+
+    Pierre Huyghebaert An essay of a visual collection on drawing curved vectors (sensing mathematics)
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+Reading Interfaces
+* * *
+
+    Florian Cramer (echo echo) echo (echo): Command Line Poetics ("The command-line interface  provides functions, not applications; methods, not solutions") 
+
+    Alan Kay User Interface: a Personal View (doing with images makes symbols) a progressive  approach to computing, from kinesthetic to symbolic tool but a media (tool to think with)
+
+    Inside Photoshop, Lev Manovich(remediation/software hybrids/conceptual blending, vocabulary: metaphore, don't express the full range of possibilities (work within a range only), seperation media content/output, media properties given by software
+
+    Olia Lialina Turing complete user () tackles the questions of computer literacy by giving another perspective than the "enlightenment by the  code" (and of course the invisible user) point of view.
+
+* * *
+This chapter touches upon the issue of computer literacy. How interfaces open or close the imagination...
+ Digital objects become more and more layered and complex to access, how do we access software, what can we do with them? Or what are we to do with them? As an end-user, one can only use the software through the interfaces, bridges to more complex objects, developers have built. These interfaces can be less or more [permissive] 
+All texts in this chapter place the figure of the user in focus, as opposed to putting the task at the center of the attention. In doing so, they suggest that users should be busy with their computer; that is to be active and adopt a "writerly" approach to computing.
+In order to do so, each of the three authors suggest a different approach:
+For Florian Cramer, it is necessary to avoid the separation between programmer and user at any cost. Or to put it differently, to be empowered, users should be programmers too. He advocates the use of Command Line interfaces as a mean to be always in an active, "writerly" mode. According to him, the graphical user interface provides solutions while the command-line provides methods.
+Alan Kay also sees programming as the ultimate stage of computer literacy but for him the Graphical User Interface is not a problem but a means to that end. His text is a plea for a progressive learning curve so that young people especially, who are not yet equipped to think of abstract things, can get familiar with computers.
+Lev Manovich focuses on the vocabulary used in interfaces --often remediations-- and their consequent metaphores and affordances. Using Photoshop as a use case, he observes that a user expects a specific visual output from a "wave" filter, however when using it out of a certain range, the output is quite unexpected. 
+Olia Lialina shifts focus to the figure of the user. She argues that everyone will always be a user. Software production has become so deeply layered that we are always using code that we didn't program ourselves. She proposes different means to make one's computer personal. For her, computing should not become invisible because with it also the figure of the user might vanish. With it would disappear the possibilities, freedom and rights of users to misuse their software.
+Another one by Manovich, in which he tries to make some kind of archeology of media content creation and manipulation by looking at  photoshop functions. 
+He starts his essay by giving the following grid for distinguishing  software types: 
+1a) Media creation, manipulation, and access technique that are specific  to particular types of data. Eg. "Blur" (meaningless for text). Implies  Micro-management, step by-step procedures. 
+1b) new software techniques that can work with digital data in general.  eg. `sort` or `search`. More linked to automation 
+2a) simulations of prior physical media augmented with new properties  and functions. Eg. electronic book which can be tagged and searched. 
+2b) new computational media that do not have obvious equivalents in  previous physical or electronic media. Eg. the WWW (a data-blind protocol) 
+Manovich analyzes a subset of the tools photoshop provides (different kind of filters, and the layer palette). 
+Some filters are named and emulate previous technics. Some others are  named by Conceptual blending, i.e. associating ideas such as wind or  waves to give clues about their effect. But it works as a metaphor to a  certain point, in a certain range of parameters and the wave filter  produces "abstract" results if you apply too many waves. Other seems to  be digital native (eg. sharpen) but their root is to be found in  electronic (and electronic music). Filters, signal etc. Can be applied  to many different kind of media. 
+Digital introduce a separation between the record (_media content_) and  the output (the artifact). 
+Manovich critics the split made between digital artists who programs and  so-called "conservative artists" who just use GUI, seen as less "new  media specific". But he says both practices are part of the same  continuum. Using MS Word is also using new media. 
+Nevertheless he sees different radicalness: for instance the layer  palette in photoshop allow to discretize a composition and helps going  away from the irreversability of physical media, but photoshop still  conceptually subordinate the various elements to the final image  (contrary to Geographical Information Systems which share this metaphor  of layers). 
+In short, New media do not have not one parent but two: media and  cultural practice on one hand and software development on the other. 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+Monadic or Myriadic
+Contextual tools
+Myriadic composition tools
+Un bon programme réserve l'avenir (ordinateur et composition automatique)
+How do technical and social aspects influence and give meaning to our way to produce layout/typography? (this question doesn't seem necessay, maybe a little bit too didactic ?)
+Digital computing is a field in perpetual mutation. Even if software is obviously a functional object, it is also and probably first of all a cultural object. Each software transmits a genetic line of individual experiences, written into its source code. When you launch a lay-out software, you start a dialog with 50 years of modern computing history, with 500 years of printing history and even more with the history of writing and of the sign.
+Software carries a cultural heritage of typography. Details such as how to hyphenate, or how  text blocks are constructed are all symptoms of cultural and context specific decisions. There is no such thing as a universal and monolithic tool which could answer to any situation and problem. Composition rules as preached by gurus such as Jan Tschichold or Jost Hochuli are of course not valid for every type of book, culture, or content even.
+Instead of imagining an all-in-one tool, a more fragmented model such as the Unix toolkit offers a set of tools which can be combined, doing only one simple task at a time but doing it really well. The possibilities of combinations are infinite which allows for specificity and singularity.
+        Ordinateur et composition automatique (author) explains how automatic composition (through hyphenation and justification) cannot be valid for every language, not even for publishers writing in the same language. 
+        Whereas Maurice Girod speaks of justification through technology and language, Unjustified text and the zero hour traces back its history from a cultural approach, how it appeared with technological innovation or from social contexts. 
+        Where is Design? (author) talks about design of one content for multiple outputs and critiques the impoverishment  that results from the decision to aim for a correct display that matches the lowest common denominator. Instead of avoiding design decisions that could not be displayed everywhere, the authors propose to consider specificity as a constraint for "graceful optimization".
+        (Interview avec Jacques André) Donald Knuth conceived the typesetting programme TeX in order to digitally compose part two of his Art of Computer Programming with the same typographical quality as part one that was typeset in lead. What's called good composition and badness in the software are the reflections of Knuth's conception of layout, based on a classical idea of print-making. Although when using TeX it is hard to deviate from this universal approach, the justification algorithm he developed was written for reuse and is now part of many other layout programmes.
+[missing text on Unix tools and their problems? for later]
+The Critical Engineering Manifesto to use to prepapre interview with Jacques André
+============================================================
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+The making of the standards, shared vocabularies
+HTML contraste avec une histoire de soumission de profession.
+On y a accès parce que tout ça à été documenté.
+auto-organisation
+Pour quelle raison des gens se sont-ils interessés à ça?
+Parler de SVG? de CSS? Parler du sprint LGRU pour l'invention d'un nouveau standard?
+http://www.rosab.net/format-standard/
+* * *
+
+    Unicodes, Denis Jacquerye
+
+    Archive of Notices of Non-Approval, Unicode Inc.
+
+    USE CASE: The official list of rejected inquiries to Unicode: their description and why they were rejected.
+
+    Opening the black box of printing, Open Source Publishing, Femke Snelting and Pierre Huyghebaert,  (workflow, place for experimentation, richer experience)
+
+    On Typography, Anthony Froshaug
+
+    W3C go Home! (c’est le HTML qu’on assassine), Martin Arnaud
+
+    Eric's Text on fake grassroot
+
+    How did we get here ?, Mark Pilgrim
+
+    Proposed New Tag: IMG, Mailing list www-talk
+
+    USE CASE: The discussion on the www-talk mailing-list on deciding on how to display images on a web page.
+
+    Un code de la mise en pages, Henri de Montrond
+
+    USE CASE: An explanation of a layout code conceived by a group of practitioners  (journalists, printers, printmakers, graphic designers), first meant for French speaking countries, expecting through the Atypi to reach English and German speaking countries. A form was designed to find  a common vocabulary but also common signs to draw mock-ups for the  printer. Now, becoming obsolete because of DTP (designers are now giving  a final PDF file for the printer to print), the author already speaks of computers in his conclusion, saying they need their own code/shared vocabulary. 
+
+* * *
+"Between the tyranny of structureless and fallacy of one fits all" [^1], making standards is not only a technical job. It is also a social process in which power, negotiation, coercion and  compromises come into play. Standards discriminate and refine, include and exclude... Whether de-facto or negotiated, how do standards affect graphic designers? What makes a standard successful or not?
+This chapter contains three clusters of texts.
+The first one, about unicode, discusses the implicit hierarchy between central and peripheral languages, how the very structure of unicode classification mirrors an established geopolitics. At the same time presents collective typographical projects trying to compensate this  imbalance and honor the richness of the world languages.
+The second investigates the implicit and explicit rules and standards that regulate the relationships between designers and printers. The texts evaluate the weight of the print infrastructure, the relationship between quality and access as well as the importance of a common vocabulary between the different parties involved.
+From different and converging perspectives, the third cluster documents how the html language is debated and defined. It gives an historical account of how the <img> tag and the HTML5 specification came to life and the various tensions and conflicts revolving around the negotiated standards for the web. The contributions insist in different ways on the active role taken by people who care about the web as a creative space.
+[^1]: Lampland, Martha, and Susan Leigh Star. 2009. Standards and their stories: how quantifying, classifying, and formalizing practices shape everyday life. Ithaca: Cornell University Press.
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+Translucent tools
+shaping process
+sensing one own's body
+Processual design
+Making an account of itself
+guts hanging out
+ether
+exhibisionist software
+flasher
+ne pas voir du tout vs voir à l'interieur.
+In computing, the term "transparent" is an ambiguous word; it refers to a device which we tend to forget while using it. Most of commercial devices tend to reach this graal of making the invisible computer Don Norman is dreaming of, putting the emphasis and all the credits on the user alone ---Olia Lialina already raised this issue. 
+Similary, le design a un bon passif si on parle de cette idée de transparence. un bon design sait s'oublier.
+planning and improvisation. How can design
+http://www.arts.ucsb.edu/faculty/reese/classes/artistsbooks/Beatrice%20Warde,%20The%20Crystal%20Goblet.pdf
+In design and architecture, transparency have been a goal to reach in the 30s (Beatrice Warde's crystal goblet, glass bank buildings), trying to make people believe there is nothing to hide.
+In computing, the industry is nowadays busy with the idea of transparency trying to produce an invisible computer, breaking apart the general-purpose  computer  into a set of dedicated commodities, giving all credits to the creativity of the user. FLOSS by nature tends to  push for  the opposite. Not only the source code is made available, but its own construction is made visible through infrastructural and social and mailing-lists, bug reports etc.
+This chapter focuses on how a piece -- of art, design or software -- addresses the public and invites it to engage with. It suggests how tools and design objects may reveal their own machinery, their genealogy, and reflect on itheir own subjectivity and construction dynamics. By doing so they  offer a critical framework for its actors to constantly revisit its meaning and its function.
+
+    In Softness, Matthew Fuller suggests some methodologies for artists to escape the  average user-centered computer experience and connect back with the materiality of computational media. Taking examples from modern and  contemporary media art, he talks about interrogability, a quality of  pieces reflecting on their own way of operating to offer a way to understand how they are made and the possibility to make them evolve.
+
+    In Coordinating Collaborations,  Chris Kelty explores how free and open source movement is "vitally  concerned with its own existence as a public" (aware of its body?).  Going back and forth planning and improvisation, FLOSS allies criticism  and the creation of working alternatives. Linux and Apache projects are put in contrast to show the different approaches to decision-making, and the tools developped to support  their respective models of collaboration.
+
+    In The politics of language in graphic design, graphic designer Aitor Méndez imagines what Open Design would mean for and act on graphic design practices. He strives for the appropriation of a design by the public, encouraging variations based on an initial design. leaving a place for improvisation where design as always been about planning. 
+
+    Writing design --- towards a culture of code
+
+réservoir de possibilités, multiplicité
+culture : milieu écologique, coopération, 
+Lieux communs, concatenation of ideas about the ideas of others
+compréhension collective
+fonction figée, définie de l'exterieur, contre l'instrumentalisation
+question de la fonction réinventée. Se réinventer constamment
+question de l'engagement
+Favoriser la réinvention. Dispositif de mise en critique.
+Adaptabilité = critique. Critique = récursive publique
+refléter sa propre subjectivité et ses dynamique de construction
+Faire sentir et faire comprendre les opérations à l'oeuvre.
+Recursivité
+Human collaborations
+Egalitarian or lead, contributive or collective, centralized or decentralized, there isn't one archetype of collaboration. Where, when and how did collaborative practices took place in Art and Design history? What kind of socialities has been drawn by those? How can the web empower or trigger new kind of collaborative practices? How could the experience gained by free software development be reinjected into art and design practices? How can work be done collectivelly without muting the individualities? With free licenses, everyone can embed someone's content in another corpus; but this does not mean the embedded author supports the content of the new corpus. How can we distinguish conscious and unconscious collaborations (difference between « by ... » and « with ... » in Curating as Environmentalism or example of Erik Kluitenberg contacting Floss Manuals authors)?
+« Coordinating Collaborations » and « Softness » brings in the notion of recursive publics. « A recursive public is a public that is vitally concerned with the material and practical maintenance and modification of the technical, legal, practical, and conceptual means of its own existence as a public; it is a collective independent of other forms of constituted power and is capable of speaking to existing forms of power through the production of actually existing alternatives. » They talk about a mix of planning and improvisation; what could this be for design? 
+Can we imagine an ecology in the design process closer to the free culture and recursive public ecology? Can we think of a distributed network of rizographs linked to print-on-demand services? A network of rizographs not only as a service given to designers, but also as a means to make the machines survive (an anecdote from Harrisson whose Rhizograph was stored in a very cold room and needed to print regularly to avoid the color drums drying.) cf. communities in agriculture (vegetables, fruits, bread oven), William Morris
+Besides human networks, one can never use an independent tool. As it could seem obvious in hardware, a software always relies on existing software, whether using libraries (existing pieces of code) or simply demanding an interpreter or a compiler; one should rather not “re-invent the wheel”, should she? How do different types of software interact with each other? How does the final production of an object influence the first processes of production (eg. The printer's RIP tells us what we can or cannot do)?
+Furthermore, this dependency needs to be taken care of. When one finishes a website and puts it online, one cannot just leave it as it is. One needs to maintain it alive as server side updates are always necessary as they fix security issues among others. It is still living, almost like a bacteria.
+Nota/bonus: How does one makes you addicted, meaning dependent on their service (eg. Google Fonts encourages to link to their js, finding the download link is obfuscated).
+
+    Matthew Fuller, Softness: Interrogability; general intellect; art methodologies in software (art methodology, self-explaining, interrogability)
+
+    Christopher M. Kelty, Coordinating Collaborations (planning vs adaptability, recursive publics)
+
+    Aitor Méndez, La política del lenguaje en el diseño gráfico (open, contributive design, against planning, structure, control)
+
+
+
+------------------------------
+
+
+David Brin, auteur de science-fiction
+cf. conférence sur une invitation de Google
+reader: manque de réflexion pour et par les praticiens sur le sujet outils et pratiques
+considering your tools
+porter de l'attention, rendre important
+tools to think with
+on confond outils et instruments
+avoir un marteau c'est penser
+les outils nous fabriquent
+on utilise un instrument, on ne le pense pas
+Simondon
+instrument = mesurer, sentir
+outil = performer
+Discrete gestures: comment palper le digital, comment notre corps est informé de notre geste par l'outil et le résultat visuel
+les photographes adoptent Photoshop car il simule bien leur pratique déjà établie
+PH: certains logiciels ont tendance à lisser le rapport qu'on a avec eux en enfouissant assez loin leur vraie texture digitale
+pb de la balance entre une interface plus accessible et... user-friendly, quel user et quelle amitié?
+Reading interfaces
+chapitre accès sur l'utilisateur
+au temps des catastrophes
+utilisateur != usager n'utilise pas seulement un instrument
+mais c'est toujours relatif, on est toujours utilisateur à un moment ou à un autre
+logiciel libre: utilisateur considéré comme "apte à"
+tendance à ne pas trop être user-friendly, si quelqu'un veut quelque chose, on lui répond souvent "le code est ouvert, il est là, tu peux le modifier toi-même"
+il faut savoir comment formuler sa question
+tenter de réduire la distance utilisateur/développeur par les deux bouts
+c'est la construction de l'outil qui doit être en fonction de ça, ça doit être un critère de construction de l'outil
+et pas que de la construction de l'outil mais aussi des normes sur lesquelles il s'appuie
+écologie des pratiques: on est toujours usagers et utilisateurs dans différents contextes
+utile de prendre conscience précisément qu'on est maintenant usager, maintenant plutôt utilisateur
+diplomatie, reformulation de ce qu'on veut, pouvoir renoncer
+dans logiciel libre, pas clair qui demande et qui répond car on est à la fois commanditaire et "prestataire"/producteur
+les diplomates représentant des pratiques différentes ne se mettent jamais à la place l'un de l'autre. ils peuvent suggérer mais en parlant à personne. ils ne peuvent pas vendre leur idée
+l'empathie est limitée volontairement
+il s'agit de faire agir des œuvres d'imagination et non de suggestion
+logiciels comme outil génétique
+génétique comme wargame?
+programme nucléaire qui était à la base un jeu
+idée que les outils sont porteurs d'une mémoire, d'habitudes, de manières de faire, qui transmettent, filiations d'outils
+le programme comme gène
+Scribus, créé pour réaliser des menus de restaurant, resté à l'état infantile
+Inkscape, fork de fork de fork, toujours en mutation, on sent les négociations, des restes des anciens logiciels (tags "sodipodi" etc.)
+Unicode qui tente d'être compatible avec tous les anciens encodages, gardant toutes les erreurs du passé
+claviers azerty/qwerty qui n'ont plus de raison d'être auj. mais qui existent par leur histoire
+skeuomorph?
+technological entrenchment: trop difficile à changer?
+Andrew Goffney, Evil Media, sur les stratagèmes
+bcp de choses canalisées par des bibliothèques de choses toutes faites → major key
+pas seulement intéressé par les standards existants
+mais on est impliqué dans la fabrication de nouveaux standards pour des pratiques qui n'existent pas encore ou qui sont encore en germe
+travail difficile: trouver la balance entre le passé, les acquis et le possible
+David Brin encore, conférence Google
+Shaping processes
+comment rendre un corps prendre conscience de sa propre matérialité?
+méthodologie pour qu'une pièce parle de la manière dont elle est construite
+logiciel libre, mvt de va et vient entre planification et improvisation
+outils qui permettent de se rendre compte de son propre développement
+sensation d'avoir un corps pour un animal
+bactérie, fourmi n'auraient pas cette sensation
+territorialité, expérience d'intrus dans son territoire
+l'ethos d'un animal qui s'aventure chez qqun d'autre est différent, ils sont en hésitation, veulent s'en aller
+cette hésitation, c'est là qu'on se sent un corps, une mise en tension entre ce qu'on fait et ce que le corps nous envoie faire, c'est-à-dire cavaler. ce moment où on est maladroit car on hésite → awkward gestures
+outils: espoir qu'on oublie l'outil, qu'il soit transparent, on oublie les coutures
+utiliser des logiciels libres, ou utiliser différents outils: on n'oublie pas l'outil, un rapport entre corps et outil important
+différence entre outil et instrument, on peut oublier l'instrument
+le corps est très utile pour produire cette hésitation et ne pas oublier les outils, les standards, les langages...
+c'est une hésitation toujours en situation, pas reflexivité. ne pas se retirer en penser en dehors. 
+réflexivité: je me retire de la situation pour réfléchir à mon rapport à la situation, pour Se regarder en situation.
+il n'y a que réflexivité en sciences humaines et en critical studies: réflexion sur ses choix, sur sa manière
+qui ne donne pas un rôle particulier à la situation à laquelle on a à faire
+hésitation: c'est la situation qui vous fait hésiter
+sciences humaines disent que sciences physiques n'ont pas de réflexivité
+les situations auxquelles ils ont à faire les font tellement hésiter qu'on peut dire qu'il y a un divorce entre les gens qui doivent régler des dispositifs expérimentaux et ceux qui ont affaire à des situations dans lesquelles ils sont très libres de réfléchir
+Stengers lutte contre la réflexivité car le terme a été capturé dans la guerre des sciences
+contre "les scientifiques manquent de reflexivité, les sciences humaines vont l'apporter"
+choisir le logiciel libre est une méthode pour rester dans cette hésitation
+même si quand on est en "mode production" on n'a pas le temps de penser à nos outils
+Bruno Latour: S'il n'y avait pas l'habitude on ne pourrait rien faire. 
+l'habitude bien instituée rend toujours possible la reprise en main de la situation
+mauvaise habitude: on ignore que la situation ne convient pas, on est mené par l'habitude
+le problème n'est pas de tout le temps réfléchir à, le problème est d'être sensible au moment ou c'est nécessaire.
+hésitation dans l'écriture qui n'existerait pas sans le traitement de texte, le cerveau fonctionne différemment
+vitesse de la plume, de l'écriture qui demande plus d'attention
+on se met à bégayer dans son style
+(to stutter)
+comment faire pour rester vigilant. Bonne volonté? Techniques?
+changé d'écriture avec l'ordi.
+lenteur du manuscrit: un autre type d'attention.
+begayer
+ecologie: predateur + proie.
+ecologie: pas d'intéret commun capable d'effacer l'hétérogénéité des parties.
+ecologie: metastable.
+modernité: prédateurs qui ne revent que de régner seuls.
+monoculture.
+pratique disparaissent. meme pratiques
+57:00 -->
+reve majoritaire: transforme en prédateurs
+design graphique.
+la privatisation = la boue qui monte qui va engloutir et la proie et le prédateur
+GNU: 1er acte de resistance politique délibérée (En même temps ça résiste)
+réaction à la réalisation qu'on détruisait leur pratique
+ils se battent contre ça en restant dans le framework donné et pas dans une lutte radicalement opposée
+sentent que leur pratique est menacée. trouvent des solutions pour exister dans le contexte qui leur est donné.
+spécificité de l'informatique: resister
+Leak Lidder. Symbiose. Années 50. mis en place structures permis unix, 
+internet d'abord né des pratiques scientifque, puis repris par armée.
+technique pas au service de qque chose mais avec son automie et son imaginatino politique.
+pratique donne le pouvoir de penser ensemble.
+laboratoires
+B Latour: cartographies de controverse. Ne marche pas l'exploitation graphique spaghetti.
+"y'a qu'a"
+relation inter-praticien. Peut pas devenir un reve majoritaire. Mais pq pas? 
+comment faire pour rester vigilant. Bonne volontée? Techniques?
+la formulation. comment déployer les choses
+maths = syntaxe.
+ouvrir l'imagination, outils qui transforment le médiateiurs. Agir sur l'imagination 
+Effet de cascade. Passer entre hétérogène.
+physique construite sur l'autorité.
+de quoi les graphistes ont peurs. vérité inavouable.
+parler des enjeux.
+pas partager l'habilité à coder, mais partager la culture pour comprendre les problèmes.
+s'imaginer à la place de.
+écologie des pratique demande une production culturelle qui produit une imagination de ce que sont les problèmes des uns et des autres.
+pour quoi ce texte nous semble intéressant pour les problèmes de notre milieu. Reprendre des moments du textes (eg. diplomatie etc.)
+passer du générique à notre cause.
+CC BY SA
+
+
+---------------------------
+
+
+
+discussion stengers
+
+
+David Brin, auteur de science-fiction
+cf. conférence sur une invitation de Google
+reader: manque de réflexion pour et par les praticiens sur le sujet outils et pratiques
+considering your tools
+porter de l'attention, rendre important
+tools to think with
+on confond outils et instruments
+avoir un marteau c'est penser
+les outils nous fabriquent
+on utilise un instrument, on ne le pense pas
+Simondon
+instrument = mesurer, sentir
+outil = performer
+Discrete gestures: comment palper le digital, comment notre corps est informé de notre geste par l'outil et le résultat visuel
+les photographes adoptent Photoshop car il simule bien leur pratique déjà établie
+PH: certains logiciels ont tendance à lisser le rapport qu'on a avec eux en enfouissant assez loin leur vraie texture digitale
+pb de la balance entre une interface plus accessible et... user-friendly, quel user et quelle amitié?
+Reading interfaces
+chapitre accès sur l'utilisateur
+au temps des catastrophes
+utilisateur != usager n'utilise pas seulement un instrument
+mais c'est toujours relatif, on est toujours utilisateur à un moment ou à un autre
+logiciel libre: utilisateur considéré comme "apte à"
+tendance à ne pas trop être user-friendly, si quelqu'un veut quelque chose, on lui répond souvent "le code est ouvert, il est là, tu peux le modifier toi-même"
+il faut savoir comment formuler sa question
+tenter de réduire la distance utilisateur/développeur par les deux bouts
+c'est la construction de l'outil qui doit être en fonction de ça, ça doit être un critère de construction de l'outil
+et pas que de la construction de l'outil mais aussi des normes sur lesquelles il s'appuie
+écologie des pratiques: on est toujours usagers et utilisateurs dans différents contextes
+utile de prendre conscience précisément qu'on est maintenant usager, maintenant plutôt utilisateur
+diplomatie, reformulation de ce qu'on veut, pouvoir renoncer
+dans logiciel libre, pas clair qui demande et qui répond car on est à la fois commanditaire et "prestataire"/producteur
+les diplomates représentant des pratiques différentes ne se mettent jamais à la place l'un de l'autre. ils peuvent suggérer mais en parlant à personne. ils ne peuvent pas vendre leur idée
+l'empathie est limitée volontairement
+il s'agit de faire agir des œuvres d'imagination et non de suggestion
+logiciels comme outil génétique
+génétique comme wargame?
+programme nucléaire qui était à la base un jeu
+idée que les outils sont porteurs d'une mémoire, d'habitudes, de manières de faire, qui transmettent, filiations d'outils
+le programme comme gène
+Scribus, créé pour réaliser des menus de restaurant, resté à l'état infantile
+Inkscape, fork de fork de fork, toujours en mutation, on sent les négociations, des restes des anciens logiciels (tags "sodipodi" etc.)
+Unicode qui tente d'être compatible avec tous les anciens encodages, gardant toutes les erreurs du passé
+claviers azerty/qwerty qui n'ont plus de raison d'être auj. mais qui existent par leur histoire
+skeuomorph?
+technological entrenchment: trop difficile à changer?
+Andrew Goffney, Evil Media, sur les stratagèmes
+bcp de choses canalisées par des bibliothèques de choses toutes faites → major key
+pas seulement intéressé par les standards existants
+mais on est impliqué dans la fabrication de nouveaux standards pour des pratiques qui n'existent pas encore ou qui sont encore en germe
+travail difficile: trouver la balance entre le passé, les acquis et le possible
+David Brin encore, conférence Google
+Shaping processes
+comment rendre un corps prendre conscience de sa propre matérialité?
+méthodologie pour qu'une pièce parle de la manière dont elle est construite
+logiciel libre, mvt de va et vient entre planification et improvisation
+outils qui permettent de se rendre compte de son propre développement
+sensation d'avoir un corps pour un animal
+bactérie, fourmi n'auraient pas cette sensation
+territorialité, expérience d'intrus dans son territoire
+l'ethos d'un animal qui s'aventure chez qqun d'autre est différent, ils sont en hésitation, veulent s'en aller
+cette hésitation, c'est là qu'on se sent un corps, une mise en tension entre ce qu'on fait et ce que le corps nous envoie faire, c'est-à-dire cavaler. ce moment où on est maladroit car on hésite → awkward gestures
+outils: espoir qu'on oublie l'outil, qu'il soit transparent, on oublie les coutures
+utiliser des logiciels libres, ou utiliser différents outils: on n'oublie pas l'outil, un rapport entre corps et outil important
+différence entre outil et instrument, on peut oublier l'instrument
+le corps est très utile pour produire cette hésitation et ne pas oublier les outils, les standards, les langages...
+c'est une hésitation toujours en situation, pas reflexivité. ne pas se retirer en penser en dehors. 
+réflexivité: je me retire de la situation pour réfléchir à mon rapport à la situation, pour Se regarder en situation.
+il n'y a que réflexivité en sciences humaines et en critical studies: réflexion sur ses choix, sur sa manière
+qui ne donne pas un rôle particulier à la situation à laquelle on a à faire
+hésitation: c'est la situation qui vous fait hésiter
+sciences humaines disent que sciences physiques n'ont pas de réflexivité
+les situations auxquelles ils ont à faire les font tellement hésiter qu'on peut dire qu'il y a un divorce entre les gens qui doivent régler des dispositifs expérimentaux et ceux qui ont affaire à des situations dans lesquelles ils sont très libres de réfléchir
+Stengers lutte contre la réflexivité car le terme a été capturé dans la guerre des sciences
+contre "les scientifiques manquent de reflexivité, les sciences humaines vont l'apporter"
+choisir le logiciel libre est une méthode pour rester dans cette hésitation
+même si quand on est en "mode production" on n'a pas le temps de penser à nos outils
+Bruno Latour: S'il n'y avait pas l'habitude on ne pourrait rien faire. 
+l'habitude bien instituée rend toujours possible la reprise en main de la situation
+mauvaise habitude: on ignore que la situation ne convient pas, on est mené par l'habitude
+le problème n'est pas de tout le temps réfléchir à, le problème est d'être sensible au moment ou c'est nécessaire.
+hésitation dans l'écriture qui n'existerait pas sans le traitement de texte, le cerveau fonctionne différemment
+vitesse de la plume, de l'écriture qui demande plus d'attention
+on se met à bégayer dans son style
+(to stutter)
+comment faire pour rester vigilant. Bonne volonté? Techniques?
+changé d'écriture avec l'ordi.
+lenteur du manuscrit: un autre type d'attention.
+begayer
+ecologie: predateur + proie.
+ecologie: pas d'intéret commun capable d'effacer l'hétérogénéité des parties.
+ecologie: metastable.
+modernité: prédateurs qui ne revent que de régner seuls.
+monoculture.
+pratique disparaissent. meme pratiques
+57:00 -->
+reve majoritaire: transforme en prédateurs
+design graphique.
+la privatisation = la boue qui monte qui va engloutir et la proie et le prédateur
+GNU: 1er acte de resistance politique délibérée (En même temps ça résiste)
+réaction à la réalisation qu'on détruisait leur pratique
+ils se battent contre ça en restant dans le framework donné et pas dans une lutte radicalement opposée
+sentent que leur pratique est menacée. trouvent des solutions pour exister dans le contexte qui leur est donné.
+spécificité de l'informatique: resister
+Leak Lidder. Symbiose. Années 50. mis en place structures permis unix, 
+internet d'abord né des pratiques scientifque, puis repris par armée.
+technique pas au service de qque chose mais avec son automie et son imaginatino politique.
+pratique donne le pouvoir de penser ensemble.
+laboratoires
+B Latour: cartographies de controverse. Ne marche pas l'exploitation graphique spaghetti.
+"y'a qu'a"
+relation inter-praticien. Peut pas devenir un reve majoritaire. Mais pq pas? 
+comment faire pour rester vigilant. Bonne volontée? Techniques?
+la formulation. comment déployer les choses
+maths = syntaxe.
+ouvrir l'imagination, outils qui transforment le médiateiurs. Agir sur l'imagination 
+Effet de cascade. Passer entre hétérogène.
+physique construite sur l'autorité.
+de quoi les graphistes ont peurs. vérité inavouable.
+parler des enjeux.
+pas partager l'habilité à coder, mais partager la culture pour comprendre les problèmes.
+s'imaginer à la place de.
+écologie des pratique demande une production culturelle qui produit une imagination de ce que sont les problèmes des uns et des autres.
+pour quoi ce texte nous semble intéressant pour les problèmes de notre milieu. Reprendre des moments du textes (eg. diplomatie etc.)
+passer du générique à notre cause.
+CC BY SA
+
+
+
+--------------------
+
+
+erzatz
+
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+Gerrit Noordzij, "Technique", in *The Stroke*
+Gerrit Noordzij, author of *The Stroke*, is the main actor in the rise of Dutch graphic design. Coming from calligraphy and lettering, he teaches handwriting and typography at the KABK, in the Hague --giving birth to a famous lineage of Dutch-style type designers, but starts to design his own typefaces at the end of the 80's with photocomposition and then a Macintosh. One of Noordzij's rejected thesis back in the 70's is to claim that handwriting is always at the origin of any type design. He even goes to classifying typefaces in only two categories: cursive letters or interrupted letters. This assertion has been discussed with Walter Tracy and Alexander Nesbitt in *Journal of Typographic Research* vol. 4, n°3 and vol. 5, n°1. 
+source Robin Kinross, *Modern Typography*
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+Donald E. Knuth, Lessons Learned from Metafont
+ interested in the idea of  stroke fonts (as opposed to outline fonts) which to us links back to  calligraphy while at the same time re-invents it. 
+    Robin Kinross, in *Modern Typography*, quotes Metafont as an example  of type design software, and as a symbolic example of modern  typography. The principle of Metafont is to decline a whole family of  typefaces from the description of one set of glyphs. The letters were  "generated by the strokes of an imaginary pen" (this puts in practice  Gerrit Noordzij's assumption that all letters come from the gesture of  the hand). Kinross states that Metafont was part of "the eternal  conflict between partisans of a rational typography and those of a  typography that relates to aesthetic criterias". Although we cannot deny  that there is indeed a conflict, I am not so convinced by the argument  as Matthew Carter and Hermann Zapf were working with Donald Knuth and  that the latter created TeX and Metafont especially to achieve the same aesthetic quality he obtained with letterpress. Then Kinross brings another argument to its failure: the  "reject of a commercial strategy contributed to identify the project  [Metafont] as 'academic'." Does this mean that academic projects are  considered not suitable for a large audience, not trusthy? This question  relates to a subject Aitor Mendéz from Escuela Arte10 plans to cover  for a proposal for the reader.
+    source Robin Kinross, *Modern Typography*
+-----------------------------------------------------------------------------------------
+Donald Knuth explains in "Concept of a Metafont" (1982) how Metafont works  quite precisely. The text is itself typeset with Metafont and TeX  to directly illustrate the text with the appropriate type parameters.
+A metafont is a "*schematic description of the  way to draw a family of fonts* and not only a description of the  outlines." Knuth declares that the best way to understand a problem is to be  able to teach it to a computer, rather than to a child: "The art of letter drawing will be fully  understood whenever it can be explained to a computer and the research  of this process will certainly be very instructive for all specialists  concerned by this question. We often observed that the knowledge  acquired through the construction of computer programs exceeds from far  the results coming out of the computers." 
+A note on control: "A type designer is supposed to control  his/her work, whereas potential sets of diverse parameters mean that the  metafont can generate infinite quantities of alphabets that a major part  will never be perceived by human eyes." 
+A note about generative design, making me think of  TeX/ConTeXt typeset design: in those programs, it is really easy to  change the format of the page, decide whether we need columns, changing  the basic size of the text... 
+"The designer of a metafont will have other compensations because it is  often useful to postpone certain decisions concerning the aspect of a  drawing and to treat them as parameters instead of «settle» their  specifications at the beginning of the work. Questions such as the  amount of the exceeding, the contrast of letters, the length of the  serifs, etc. don't need to be decided once for all." 
+-----------------------------------------------------------------------------------------
+This article is of another tone as the first one, it is more technical  as it's a transcript of Knuth's conference at Atypi. 
+«Metafont programs [...] are "declarative" rather than "imperative". In  other words, they state relationships that are supposed to hold; they do  not tell the computer how to satisfy those conditions.» Meaning that  some things are deduced automatically by the computer by the means of  relations between elements rather than specified by the designer. 
+«The ability to explain a sign in precise terms is highly instructive  both to the designer and to those who read his or her programs. The  computer can enforce a discipline that helps its users to clarify their  own knowledge; this educational experience is really the rewarding  thing.» In a recent interview, French book designer Philippe Millot said  that the success of Emil Ruder or Josef Müller-Brockmann was not due to  their designs, but to the fact that they enforce themselves to give out  their knowledge through courses or books. 
+He explains a bit more the concept of sub-routine or sub-program: a  program that outputs only one element of a glyph (like serifs, special  curves...). Sub-routines can then be considered as libraries compared to  other programming languages and be used in other typefaces. 
+→ in the context of handwriting?, interrupted letters, fluidity...
+He claims that the character feels "warmer" with a bit of randomness in  the design, but it is not clear if this randomness is different for two  similar glyphs. Does he want to reproduce the feel of handwriting, that  all a's are different?  → pantograph with a motor
+Knuth talks a bit more in this article about the "metaflops", the errors  encountered in the programs and how Knuth finds them interesting (with  visual examples!). 
+Then he explains how he introduced the simulation of pen pressure  demanded by Hermann Zapf, and how he tried to reproduce the ATYPI logo  with Metafont and all the variations made possible. → pen pressure = Noordzij's expansion
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+Friedrich A. Kittler, A Failed Love Affair with a Typewriter
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+Alan Kay, User Interface: a Personal View
+CLI = Command Line Interface 
+GUI = Graphical User Interface 
+Alan Kay is one of the most important figure in the history of  human/computer interaction. He and his team at Xerox PARC have conceived  many tools and paradigms that shape today's computing, including object  oriented language, "windows, icons, menus, pointer" style of interaction,  etc. In this text, he comes back on his own work and explains what were  his motivations. 
+Alan Kay's work has been driven by his own understanding of the computer  as not only a tool but a media, in which he sees the potential for  social and individual transformations in a similar way that print did.  But, for him, people won't benefit from it unless computers become  personal medias that everyone can read AND write. This is exactly the  point of Florian Cramer except that he comes to different conclusions. 
+If Kay invented the modern GUI as a proposal to enable literacy, Cramer  argues for the use of the command-line over the GUI. To put it  differently, Cramer takes the opposite path than Kay did. 
+According to Cramer, the CLI enables a writerly approach to computing  when the GUI is a "shrink-wrapped" readerly interface that "reinforce  the division of user and developer". The GUI separates the API  (Application Programming Interface) and the UI (User Interface) whereas  in the command-line the "UI is the API". "The command-line interface  provides functions, not applications; methods, not solutions". 
+Reading psychologists like Piaget or Bruner, Kay learned that our mind  has a spectrum of cognitive facilities. As they grow up, children  acquire new facilities (and lose some?), 3 stages being the *enactive*  mentality (know where you are, manipulate), the *iconic* one (recognize,  compare, configure, concrete) and the *symbolic* one (tie together long  chains of reasoning, abstract). This is why "young children are not well  equipped to do 'standard' symbolic mathematics until the age of 11 or  12, but that even very young children can do other kind of math". 
+Kay's motto "Doing with images makes Symbols" expresses his wish to  facilitate computer literacy acquirement by proposing a progressive  approach to computing, from kinesthetic to symbolic. For Cramer, on the  other hand, there is no salvation outside the symbolic approach to  computing. He backs up this claim by saying that even Kay's Squeak  graphical programming environment still rely on textual programming,  which seems to me a little bit unfair to Kay as the latter has never  refuted its power nor tried to get rid of it. 
+In the second part of his essay, Florian Cramer presents recursion as  being perhaps the best aspect of CLI where there is only text. This  is some kind of flat land where there is no hierarchy: commands, input,  output, it's all text. Programs can be chained and commands can even process themselves, data and commands mutating into  each other. In GUIs this is not possible: photoshop can't photoshop itself. 
+There is here a critique of Object Oriented programming, a paradigm that  most GUIs follow and that happens to be another Kay's invention. For  Cramer, GUI stucks the user in a predefined command set environment, but  in Kay's original plan -- before being "perverted" by Apple -- there was  the possibility for the user to act on those commands by programming  them themselves. 
+If CLIs and programming open up new forms of creation (CLI is not text only, one can manipulate graphics, sound or moving  images by text, see Database Cinema by Manovich for instance), it seems a little bit hazardous to discard visual direct manipulation  (Cramer focuses here on poetry and literature). As Kay said, the  different mindsets are complementary, and maybe one way to escape the  duality of GUI/CLI is to think about ways of switching from one mode to  the other. In this respect free software is perhaps more sensible  compared to proprietary software. For instance Inkscape (free vector graphics  authoring software) offers both the direct graphical  manipulation of the object and the direct editing of the source code,  plus scripting facilities. Relying on an XML-based open format, it is  possible to go back and forth between the two. Since Michael Murtaugh  was quoted in Cramer's essay for his programmatic video montages, I'd  like to bring another work of his. For a commission implying  visualization of data coming from a cultural institution, he used  Inkscape to create visuals "by hand" ( by mouse). He then copied the relevant  chunks to feed a loop in a php script to re-import the result back into  Inkscape for further direct visual manipulations. This seems a  beautiful way to take advantage of the qualities of the different  approaches. 
+DELETE:
+As a footnote, Cramer says that GUIs "typically are direct simulations of an analog tool: word processing emulates typewriting, Photoshop a dark  room", etc. While this may be true  in some cases, Manovich demonstrates  in his "Software book" that  this is not as true as it may look at first sight (Fuller's essay It  looks like you are writing a letter might be useful here too). 
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+Robin Kinross, Unjustified text and the zero hour
+
+
+----------------------
+
+
+http://new.math.uiuc.edu/netgeom/advice/palettes.html
+Pierre: Bitmap: photoshop/gimp
+parler du manque apparent entre les deux parties (dessin, géometrie)
+disparition/disparité
+Alan Kay on OOP: http://marcusdenker.de/AlanKayOOP.html
+Some quotes
+"And each has a different palette (a.k.a. drawing toolbar) reflecting a different philosophy of what constitutes a minimal set of drawing tools."
+"Not every fat-bits tool since works the way it did in MacPaint."
+"With any new palette you encounter, try to execute your signature. If it comes out looking half-way decent, then the pencil is being splined"
+"(on Ipaint palette) But the spline tool takes some getting used to, and it helps to know how Bezier splines work." [...] "Circles are special ellipses. Most surprisingly, circles don't have a center or radius. You have to guess." [...] If it matters how your figures look, use proper geometry drawing tools, many of which are also free. 
+(on vector graphics) "the figure on the screen can re-addressed with a picking tool, and edited. For example, it can be deleted. The document stores only the data needed for the Bresenham line to be drawn."
+(on word's whiteboard) "Curiously, the Whiteboard uses an advanced feature more proper to advanced tools, like Photoshop, namely so-called layers . This permits a level of interactivity of several users which is not typical of blackboard, or real whiteboards. This makes its use non-intuitive."
+(on KSEG) "KSEG creates new points with the right mouse, and that is where geometry begins, with points! Everything else is a construction. " [...] "Suppose you specify three points (hold the shift key as you select three already constructed points), what do they specifiy geometrically speaking? The options that are available. Thus you can click the segment (you get a polygon), the lines (you get a tri-lateral), the arc (you get an arc). But why not circle. Because you should construct your circle from more primitive constructions. Baran is a minimimalist, in many ways."
+Workshops
+Baltan labs http://ospublish.constantvzw.org/lab/wiki/index.php/Projections
+Diff visual
+A few pictures of a future font editor with history interface
+http://gallery3.constantvzw.org/index.php/LGRU-Wednesday-Visual-Versioning/DSC_6105-1
+http://gallery3.constantvzw.org/index.php/LGRU-Wednesday-Visual-Versioning/DSC_6121
+http://gallery3.constantvzw.org/index.php/LGRU-Wednesday-Visual-Versioning/DSC_6119
+http://gallery3.constantvzw.org/index.php/LGRU/P1000584
+Multi-level type design interfaces
+Type design is an iterative process of refining design directions. Starting from a better understanding of what happens when you design a  font, we worked on a type design environment that moves more fluently  between different scales of design: From single glyphs to letter-pairs  and textblocks but also to move between different versions of both  digital and hand-drawn sketches. Some of these features can be already  discovered in Fontmatrix: http://oep-h.com/fontmatrix 
+Pierre en mode savant fou
+http://gallery3.constantvzw.org/index.php/LGRU/P2235512
+Femke's restitution of co-position LGRU session
+http://blogs.lgru.net/ft/theme/co-position/100-idees
+Essai visuel: dessiner une courbe de bézier.
+bezier fontographer
+archive de pierre bézier assez riche
+8< - - -
+"L'aventure de Pierre Bézier aurait pu s'arrêter là. Mais, à l'autre bout du monde, des années plus tard, un groupe de développeurs liés à Apple créa un langage adapté à la future imprimante laser conçue pour le Mac. Il s'agissait de trouver un moyen de définir mathématiquement une courbe, comme le tracé d'un caractère, avant de l'envoyer à l'imprimante...
+L'un de ces développeurs, John Warnock, connaissait le travail du Français. Tout naturellement, il choisit les courbes de Bézier comme base du langage PostScript et fonda la société Adobe. On sait comment le PostScript fit la fortune de cette start-up devenue multinationale. Et comment le nom de Pierre Bézier fut popularisé par un autre best-seller d'Adobe, le logiciel de dessin Illustrator. Aujourd'hui, les graphistes et designers utilisent l'outil Plume et tracent des courbes de Bézier sans avoir la moindre idée de leur origine, un peu comme monsieur Jourdain faisait de la prose sans le savoir..."
+- - - >8 http://rocbo.lautre.net/bezier/pb-indus.htm
+VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+An essay on drawing Bézier?
+A visual collection on drawing curved vectors
+- relire comment les manuels décrivent le dessin en Bezier pour chaque logiciel
+- tester sur un dessin canonique et noter chaque différence précise.  Tenter de relater une expérience du dessin - Use the Tiger example
+http://en.wikipedia.org/wiki/Comparison_of_vector_graphics_editors
+http://help.adobe.com/en_US/illustrator/cs/using/WS3f28b00cc50711d9-2cf89fa2133b344d448-8000.html#WS55B8A5DC-5496-494d-ADA8-FFE0FA5DAEA1
+Article  Ford/Toyota - DexterSinister - lien avec l'industrie automobile, Bezier  - lien avec le GSp dans la mesure où on édite le tool on the spot -  chercher les premiers point-and-click - mécanismes de sélections
+http://www-gmm.insa-toulouse.fr/~rabut/bezier/
+LisaDraw http://toastytech.com/guis/lisadrawwrite.png 
+Xerox Star http://www.youtube.com/watch?v=ODZBL80JPqw 
+Xerox Alto avec Bravo http://bitsavers.informatik.uni-stuttgart.de/pdf/xerox/alto/BravoXMan.pdf 
+et SIL? et Draw http://history-computer.com/Library/AltoUsersHandbook.pdf
+MacDraw 
+Illustrator 
+Sodipodi -no manual -  à installer
+Inkscape 
+KSEG 
+FontForge 
+FontLab 
+Freehand http://www.adobe.com/support/freehand/vectors/using_pen_tool/using_pen_tool03.html
+FontStudio 
+Letrastudio http://designarchives.aiga.org/#/entries/%2Bid%3A4034/_/detail/relevance/asc/0/7/4034/letraset-package-systemletrastudio/1
+Spiro 
+Photoshop > Illustrator
+SK1  
+LibreOffice 
+CorelDraw 
+Fontographer 
+Blender 
+SketchUp 
+Paint 
+Jpicedt 
+Robofont 
+Xara http://support.xara.com/ : no manual
+svgedit (editeur de fontes en ligne) 
+typism.appspot.com
+Kalliculator: http://www.kalliculator.com/
+font constructor: http://www.fontconstructor.com
+rounding ufo: http://roundingufo.typemytype.com
+ufo stretch: http://ufostretch.typemytype.com/
+superpolator: http://superpolator.com/
+Ludi
+diff quadratique et cubique - dessin en fontforge
+metafont
+draw me a shadow
+gsp
+
+
+
+------------------
+
+
+
+

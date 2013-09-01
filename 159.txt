@@ -1,0 +1,397 @@
+﻿Programme: http://lgru.pad.constantvzw.org:8000/144
+
+
+
+
+WEDNESDAY 22 MAY
+
+
+Femke introduces the program of the next days. Then, Femke presents a few documents of interest:
+
+
+1) a printed "dump" of the LGM Campaign Questions: all the questions that were entered into the questionnaire form (the interactive tool created by [lafkon]. An interesting document to look at.
+
+
+2) Another printout-document: IRC log of discussions of commissions project review. That was in February 2013.
+
+
+3) Another document: After the LGM Future Tools meeting in Mardrid. A feedback form was put online, a quick survey. Around 40 people responded. This is a printout of the answers. It shows a community that has very different interests in Libre Graphics - sometimes as a toy, sometimes to do design work, sometimes as free culture activism ... The clear answer: everyone values the fact that it's mixed, but it's difficult to understand *how to do that* - how to achieve a mixed, diverse event (both technical and art, developers and artists meet, talks and performances) ... but talking about practicalities: people find it difficult that so many things happen, the hyperactive energy.. it was difficult to understand for some people.
+One of the questions was: "Did you have productive meetings outside of the scheduled talks" one said: "No, I am still very shy". [Note: there would be room maybe for a sort of *blind dating* algorythmic structure to be invented...]
+
+
+http://lgru.net/documents/porto/commissions.odt = http://lgru.net/archives/category/commissions
+http://lgru.net/documents/porto/log_commissions.odt = IRC log
+http://lgru.net/documents/porto/qanda_lgru.odt = http://libregraphicsmeeting.org/2013/r+w/o/free/voice/
+http://lgru.net/documents/porto/projectdescription_final.odt = http://ospublish.constantvzw.org/lab/wiki/index.php/Projectdescription
+http://lgru.net/documents/porto/LGM2013_feedback.odt
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+Piksel: Piksels and Lines Orchestra (Elisabeth)  http://lgru.net/archives/5359
+
+
+Beginning of Elisabeth's presentation: 
+The PLO or Piksels and Lines Orchestra
+It's a performance system for graphic design - using graphic tools as instruments.
+It was important for Piksel (as media lab and festival) that the commission put emphasis on performance and esthetical output.
+Different actions, such as do/undo, cut, draw a path... that you perform while working with graphical software were sonified
+"sonification"
+Supports Gimp, [Inkscape?], Scribus, MyPaint... (and somebody has piped Pd in http://medialab-prado.es/article/sonificacion_imagenes
+LGRU meeting in Bergen, June 2012: a collaborative brainstorming session. Produced quick hacks and patches for those different softwares - sonifications of actions, with Scribus, GIMP, Mypaint. Using Pd and OpenOffice sound library for sonification. Possible in a very short time (and very funny). Processing was used to generate a visual output of the work being produced. The "PLO system", imagined in Bergen:
+http://blogs.lgru.net/ft/theme/piksels-and-lines/turning-tools-into-instruments
+
+
+Media artist Brendan Howell came into the project (he's also involved in book processing projects exquisite-code.com, presented PyCessing at LGM http://medialab-prado.es/article/pycessing). Jon Nordby (closely connected to GIMP and MyPaint). They were invited to come together for a one-month residency in Bergen, to work on the PLO system.
+- in November the system was not playable yet .. no artistic content was provided
+
+
+Describing the "PLO System"
+*Question on using SuperCollider as sound server: were unsure if they should use SC, or Pd.
+*Events > Sound. One-way direction (also to be questioned).
+Visualization: desktop sharing system, "out of the box" software. Can show several screens, switch between desktops involved in the Orchestra.
+
+
+Source code is on Github: a very extensive and well documented repository:
+https://github.com/piksels-and-lines-orchestra/plo
+setup: https://github.com/piksels-and-lines-orchestra/plo/blob/master/setup.md
+
+
+worklog: https://github.com/piksels-and-lines-orchestra/plo/blob/master/worklog.md
+
+
+Brendan: ideas on compositional concepts, how to develop a performance with this Orchestra. How to write scores for the system. Idea of "a noise opera". Greek mythology entered the plot... loosely based on Pygmalion - notions of class, professionalism... and being satyrical/satirical about it. 
+"professionalism as performance"
+(note: Neither Brendan nor Jon are musicians)
+Question raised: what type of *notation* can be used (developed), to write a "score" for such a system.
+Madrid: it was a Murphy's law thing going on - network issues, lag, etc. 
+Idea: a general *Plugin System* shared by all those graphic softwares? A shared API of events? There is no real motiviation for developers to build this.
+PLO is not altering the existing behavior of the underlying software (Scribus, GIMP...).
+
+
+Q+A:
+
+
+performativity of professionalism, all the ingredients were on the stage already
+Peter: notes that "the protocol of the professional software engineer who will make everything work in the end" was very revealing. Was interested in the social relationship of the people involved, the physicality of the performers.
+
+
+Femke: The choice of the topic of this opera made hard to think about what would a different practice be
+
+
+The setup -- a design agency -- was a strange context for these sonofied graphical tools. A design agency would go for Adobe.
+minimal staging / .. was problematic -> what was problematic about it?
+
+
+Neither Jon nor Brendan were very familiar with  sonification / sound .. missing outin the fine tuning of the soundpiece
+
+
+Because there is a big Super collider community in Bergen there is potential to continue the work in the future.
+
+
+
+
+description of the commission:
+http://lgru.net/archives/5359
+
+
+Aymeric describes the difference between PD and SuperCollider in allowing people to work together.
+
+
+Elisabeth: there have been attempts at inviting ppl from SC community (in Bergen), but they were busy, unable to come to LGM.
+Jon: Brendan also tried to contact an experienced SuperCollider musician in Berlin. Same, busy...
+
+
+Femke asks Aymeric about the SC community - "how is that community like".
+
+
+Aymeric: A super organized community compared to Pd. Much more academic. Therefore it can take more time to get in contact on a project. But it's a very nice, no-nonsense, straightforward community.
+
+
+Aymeric: five years ago, SC would have been the clear choice (technically). Today, in PD you can use Libpd ... but if you want to use git or other versioning, the way patches are described is incompatible with diff [so changes in the code cannot be properly tracked]. The visual UI of Pd causes this limitation. It's a blocking element if working with other people: many people move to SC because of that. 
+Jon: does libpd have a way to load patches from a diff-able file format, or would one have to make it oneself?
+Aymeric: no libpd is a more convenient to embed Pd as "audio engine" in other software projects. The patch format is unchanged which allows people to use standard Pd to create their patch and have it then loaded by another software.
+
+
+Marcos: seeing a future in Madrid - there is a SuperCollider group there that might be interested. Thinking about a connection to AV-lab; a workshop in Madrid with a performance at the end. FS: How to keep the connection to re-thinking design practice, is that necessary, interesting? (not sure the Opera approch is really helpful for this as it relies on conventional images of doing design, and even using Libre software is "strange")
+Jon: Trying to highlight and demonstrate problems in existing practics by pointing at them may be less effective then (trying) to develop entirely new approaches and showcases them, demonstrating their usefulness
+FS: I really want to use the system for doing design because I think it is a new approach to it, already.
+Xavi Manzanares http://medialab-prado.es/article/sonificacion_imagenes
+
+
+Jon: in early May I attended some SuperCollider meetups in a newly started usergroup in Olso (including a beginner course! actually very useful). Some interest for the idea there, though most people already had their projects.
+Personally I am mostly interested in the instruments/sound-mapping part going forward, less so the orchestra and score composing bit. Hope to use SuperCollider for prototyping some ideas
+
+
+Elisa: Would find interesting to *sonifiy* a design project file. A graphic designer would download the software, add his file and hear how it sounds.
+FS: The focus is not so much about the final result but the creation process
+Elisabeth: currently, certain actions are mapped, and transformed into sound.
+For Mypaint, Jon has access to all events - but not necessarily in Inkscape or Scribus.
+Femke: The initial prototype was built very fast, in one afternoon. Now, to make it work with all those tools, it became something quite complicated.
+It would be possible to do a workshop about it with different people. You really made a prototype.
+
+
+
+
+Final PLO Commission Report:
+http://piratepad.net/PQNOiRWgSr (Jon is writing on it as we speak...)
+
+
+-------------------------------------------------------------------------------------------------------
+
+
+Constant: LGRU-Reader (Alex, Stephanie) http://lgru.net/archives/5349
+
+
+What does "considering" mean?
+Addressing BA/MA students in graphic design
+
+
+Relation between tool, practice, free culture
+
+
+For two years, it was called "LGRU Reader" - now we have a title : "Practice shapes tools, tools shape practice".
+
+
+Five people helped as co-editors. A mailing list was set up to discuss the texts (list of contributors to mailing-list)
+
+
+Original concept: Four chapters/topics (along LGRU research topics). Finally this shifted a bit, the book is organized in five chapters.
+
+
+Introduction: work still ongoing. Discussion with Isabelle Stengers ("Notes on an ecology of practices")
+
+
+1) Discrete Gestures
+How our body is informed by our digital tools
+
+
+2) Reading Interfaces
+Computer literacy, how the interfaces manipulate...
+
+
+3) The making of the standards
+How standards are made, how they are discussed, how they can be based on practice
+
+
+4) Myriadic composition tools
+Diff. approaches to composition. Most common practice for text: DTP software, simulates a canvas. Simulation of letterpress/photocomposition way of working. Those essais explore other concepts of text flow.
+
+
+5) Shaping Processes 
+It's about how there is a mix between planning and improvisation. Idea of a "recursive public" - how a piece of art, or software, can make visible itself, and helps people to consider the tool.
+
+
+About the mechanics (Human resources) behind this project: 
+Publisher (B42), editor (Constant); three colloectives, three women (only).
+
+
+Infrastructure: wiki, mailing-list ......
+Languages: English, French, Spanish
+
+
+License: The idea: publish under a free license
+But: not so easy to negociate the rights, for already published texts. Some right holders couldn't be reached.
+The three *new* texts are under a free license. Sometimes even not an answer to the request.
+
+
+The online reader:
+http://reader.lgru.net/
+For non-free texts, an account is needed to access them. To connect: http://reader.lgru.net/admin/
+
+
+Choice of texts:
+Short essais, in most cases. We tried to have different tones, text of different natures (some very academic, some not - also things like mailing-list discussions, more informal texts).
+The point of the reader: we couldn't find any comprehensive corpus of texts around this topic. There is litterature on digital art and free software, but on the relation with graphic design, it's hard to find things. 
+We wanted to connect practice ... for instance , a text by a teacher of geometry on drawing palettes - http://reader.lgru.net/texts/essay-on-drawing-palettes/
+
+
+Other example: 
+http://reader.lgru.net/texts/drawing-curved/
+A story of Bezier curves - we investigated Bezier's life, and how the curves were integrated into vector graphics software. Example: the signature on French bank notes : the first thing they vectorized, to represent a gesture. 
+
+
+Q&A
+
+
+Femke: It's exciting to see all things coming together. It feels incredibly rich and precise.
+
+
+How could you address developers (beyond graphic design students)?
+
+
+We're not sure it connects really to the community around LGM.
+Some texts are very technical.
+
+
+Nicolas: the writers / authors are in a good proportion designers *and* developers. That's a very important mix of voices, in the selection. Developers, typographers, thinkers, designers. It *adresses* developers and designers, but it's also *their voices* - very different voices, like Knuth (very structured) vs the W3C mailing-list - also written by developers but in a very quick spontaneous way.
+
+
+Question regarding the visual context of Vilem Flussers text - should we keep the physical aspect of the typewriter? The original layout, and the typos?
+Same goes for mailing-list dicussions, a very specific layout.
+In the Reader, first most texts were rendered in their original form. This was too much visual noise. So we're tending towards unifying them.
+
+
+!spread this link after this weekend!
+
+
+First book by b42 under a free license will be this reader :-D
+http://www.editions-b42.com/books/back-cover-n4-15/
+
+
+Should there be another print edition, not just wait for b42?
+AL: Wanting to reach another audience, but would be good to have other editions too.
+It is important to work with a publisher that does not have the habit of publishing in ths n ths way>
+
+
+Some things to do still:
+
+
+- interface EN/ES/FR (English should not be main language)
+- download all → css for print; offer texts as pdf 
+- contact us! (subscribe to the mailinglist)
+- put the mailing-list archive
+
+
+
+
+- first page less text?
+- clean up texts
+- call for contribution? active/passive attitude towards this.
+- bibliography
+- biography of authors
+- search
+- tags
+- list of authors
+- navigation: how to move between chapters and individual texts
+- further readings by chapter
+- access documents which are not in a chapter
+- offer a way to augment the chapters with new documents
+- login/logout/logerror page
+- user account to add texts
+- commenting
+
+
+- facilitate translation (in others languages than es/en/fr too). Maybe simply invite people to contribute translations rather than new text?
+
+
+Announce 
+Can we announce the link already: Yes ... (maybe let's wait until saturday this week)
+Release date of the printed book: Between September - December 2013 (hopefully)
+
+
+About B42? Do they normally release under open licence?
+Normally not. But some "how will I make money if the PDF is online?" questions persist. We know them well, things [their approach to open licensing] are changing little by little.
+
+
+Elisa:
+It would be great to spread the book to *all* french art / design schools. But being done through a small specialized editor, it may become expensive, too expensive too be broadly distributed.
+Alex: 
+We think that with this publisher we will reach a wider audience. 
+
+
+Femke: what if Greyscale Press or FLOSS Manuals make an alternate print-on-demand edition? Or booki.
+Stephanie: it would be fine for us.
+Femke makes plans for making a physical edition. "it needs to happen". It's important that the book exists in other forms, in other places.
+Elisa: hopes this won't harm the relation with B42.
+Alex and Stephanie: ready to deal with it.
+
+
+Peter: 
+Licensing question: is the *compilation* work done by the editors explicetely licensed?
+Alex: No Licenses yet, need to solve this.
+
+
+
+
+-------------------------------------------------------------------------------------------------------
+
+
+MLP: LG-Workstation (Laura, Myriam) http://lgru.net/archives/5328
+
+
+The idea of the workstation was: having an open studio, for designers, professionals, students, amateurs, the general public. Linked to Medialab mission as a public institution
+Three goals: 
+1) disseminating libre graphics, 
+2) giving an infrastructure to produce, 
+3) a place to meet people 
+
+
+Waiting for new space, renoval of the building to be finished. Related to ((A&F)) school, where ... was teaching. Also Myriam was there as student, finishing her ...
+Circumstances of moving = idea of nomadic workstation.
+
+
+Continuously incorporating things: groups of people, ideas, projects. A growing network, even with no physical stable space.
+
+
+But: wanted to emphasize the importance of physical space. An open, public space, where unexpected things can happen. This can lead to chaos = need for a mediator.
+
+
+How the workstation fits with general Medialab Prado practice. 
+
+
+Idea of prototyping: working on specific projects, that respond to a real need. Connect different worlds. People need to sit down and discuss their different perspectives.
+
+
+Workstation: should be not an isolated thing, but part of a "lab of labs". Different workstations co-existing. Topics: 
+
+
+Libre Graphics working with/for other workstations to provide a design infrastructure.
+Collaboration with Manufactura Independente
+Example of Citizen Science and Origami workstation working together
+New, large Medialab space makes other connections possible.
+
+
+http://spectralworkbench.org
+
+
+Outcome: Calming down Richard Stallman - MLAB is doing graphics in FLOSS!
+
+
+How can we document, communicate these kinds of processes?
+
+
+The travel was not easy but it was an incredible trip. Richer experience.
+
+
+Some halts on the trip:
+
+
+A workshop to think about communication
+A workshop "hack my kerning", multidisciplinary students making typography
+A residency in Constant Variable
+Presenting LGM and Interactivos to students, a translation exercise
+Redesign of Medialab Prado logo with Serreria typography
+Start of Grafica Liebre collective http://graficaliebre.hotglue.me/
+Design of LGM programme with Scribus - hard love
+2nd edition of the communicatiom workshop
+Design of communication of workstations: triangular lines always connect - everyone at Medialab installing Scribus to edit their own files
+Signage
+
+
+About the map:
+A monotype ... only one copy. An engraving: multiple copies.
+Some characters: flying fish (hybrid living in different worlds), the boat (a mobile platform, moving institutions, collective), the jellyfish (transparant body like our practice; immortal because a small part can grow a new one), the octopus (this is the mediator that coordinates and feels her work. they need 8 arms)
+
+
+different lables ... different levels of connections (from stable to standard to weak)
+here is the map so you can travel :-)
+http://toentropy.hotglue.me/
+
+
+varying levels of professionalisation mix
+
+
+we are free to not do voluntary work
+
+
+we want to learn together
+
+
+
+
+-------------------------------------------------------------------------------------------------------
+
+
+
