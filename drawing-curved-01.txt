@@ -1,0 +1,407 @@
+2D/3D rabbatement sans contrainte, opposé à rencontre avec une surface = contrainte
+photo d'ombre de sein sur le sable + dessin d'un sein sur le sable
+﻿
+rapport skin-bone typographie, trait - approche par le bord, ocr
+
+vector comme 'peau' de la matière = trace d'un mouvement ou d'une tension
+baguette = tension principale dans un sens = ligne
+spline
+
+signature = trace du corps
+
+compression video qui utilise la vectorisation + interpolation
+description de la matière par sa limite avec la lumière
+
+-
+
+
+Drawing curved
+An essay of a visual collection on drawing curved vectors
+projects / lgru.reader.drawing-curved.git / tree
+
+
+Demander les droits de reproduction d'images à la Société d'Histoire des usines Renault: http://www.ametis-renault.com/
+
+
+Évolution des techniques de modelage 3D vers les courbes Bézier
+http://www-gmm.insa-toulouse.fr/~rabut/bezier/cad/cad.html
+
+
+Just before to die, Pierre Bezier wrote to a researcher on his work :
+"We  can summarize what i brought by this idea a bit strange : instead of  distord a curve, or a family of curves, it's better to distord more  generaly the space where they are included.
+The straight line is not, etc.
+Sincerely yours,
+P. Bézier"
+
+
+"My  contribution could be summarized by this somewhat strange idea :  instead of modifying the shape of a curve, or of a family of curves, it  is better to have the space into which we put them globally deformed. 
+The straight line is not... and so on.
+Best wishes,
+P. Bézier"
+http://www.jasondavies.com/animated-bezier/
+
+
+"On  pourrait résumer mon apport par cette idée un peu bizarre : au lieu de  déformer une courbe, ou une famille de courbes, il vaut mieux faire  subir une distorsion générale à l'espace dans lequel on les a incluses.
+La ligne droite n'est pas... etc. 
+Bien cordialement 
+P. Bézier"
+
+
+
+
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=bezier-pistolet.jpg
+Trouver une portion sur un étalon pré-existant.
+Gamme de pistolets : comment étaient-t-il produits?
+
+
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=bezier-img006.jpg
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=bezier-img008.jpg
+Imaginer un dispositif physique correspondant à la description de PB ci-dessus.
+Workshops Baltan labs http://ospublish.constantvzw.org/lab/wiki/index.php/Projections
+
+
+
+
+
+
+
+
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=bezier-img010.jpg
+
+
+(idem) Pantographe - changement d'échelle (?)
+
+
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=bezier-img012.jpg
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=bezier-img014.jpg
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=bezier-img016.jpg
+Vieilles techniques de reproduction, utiles chez Renault
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=bezier-img018.jpg
+Vue imaginaire de ?
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=bezier-img020.jpg
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=bezier-img022.jpg
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=bezier-img024.jpg
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=bezier-img026.jpg
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=bezier-img028.jpg
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=bezier-img030.jpg
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=bezier-img032.jpg
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=bezier-modele.jpg
+
+
+---------------------------------
+Retooling - Just in time
+
+
+(ce n'est pas pour rien que les courbes de béziers ont été créees par un outilleur de l'industrie automobile). Position ingrate, doivent inventer des outils mais sans réellement savoir l'application.
+
+
+"By the mid-1950s, Toyota Motor Corporation of Japan began to explore a more fluid production model. Without the massive warehouse spaces  available to store inventories required for an Assembly-Line, Toyota  developed the Just-In-Time production model and inverted the stakes of  manufacturing. By exploiting and implementing a fluid communications  infrastructure along the supply line of parts, manufacturers, labor and  customers, Toyota could maintain smaller inventories and make rapid  adjustments. A quicker response time was now possible and products could  be made when they were needed. All of the work could be handled by a  wider number of less-specialized workers and design revisions could be  made on-the-fly without shutting down production and re-tooling. The  result was an immediate surplus of cash (due to reduced inventories) and  a sustainable, responsive design and production system—smaller  warehouses, faster communications networks, responsive and iterative  design revision and products made as they are needed: Just-In-Time."
+
+
+Modules... Logiciel... 
+
+
+All  of the work could be handled by a wider number of less-specialized workers and design revisions could be made on-the-fly without shutting down production and re-tooling. The result was an immediate surplus of cash (due to reduced inventories) and a sustainable, responsive design and production system—smaller warehouses, faster communications networks, responsive and iterative design revision and products made as they are needed: Just-In-Time."
+http://www.dextersinister.org/index.html?id=3
+Just in time - Ford/Toyota - DexterSinister
+Link with the car industry
+Lien avec l'industrie automobile
+→Bezier
+
+
+Capture d'écrans de logiciels de 2D/3D montrant des voitures.
+Les belles courbes
+hot rods
+
+
+--------------------------------------
+
+
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=bezier-signature.jpg
+Pour convaincre les dirigeants de Renault, ils reproduisent l'écriture: signature du trésorier de la Banque de France, imprimée sur tous les billets de l'époque
+Rapport à l'écriture/typographie
+le geste est la forme la plus libre qui soit, 
+rapport à la copie: faire aussi bien que l'original
+
+
+"With any new palette you encounter, try to execute your signature. If it  comes out looking half-way decent, then the pencil is being splined"
+
+
+
+
+-----------------------------------------
+
+
+Manuel d'Unisurf
+Essayer le visual basic 
+http://www-gmm.insa-toulouse.fr/~rabut/bezier/
+
+
+extra/mono-basic 2.10-3
+    Mono Visual Basic.NET compiler
+
+
+http://www.jstor.org/discover/10.2307/77846?uid=3737592&uid=2&uid=4&sid=21102269602281
+(demander à Lilly)
+
+
+À creuser. Chercher des gens chez Renault qui connaissent Unisurf.
+
+
+- Re-read how manuals try to describe this distorsion
+-----------------------------------------
+Comment on apprend à dessiner les courbes Bézier
+
+
+Adobe
+
+
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=ill_sdw_first_curve_point.png
+Drawing the first point in a curve
+A. Positioning Pen tool
+B. Starting to drag (mouse button pressed)
+C. Dragging to extend direction lines
+
+
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=ill_sdw_second_curve_point.png
+Position the Pen tool where you want the curve segment to end, and do one of the following:
+To create a C‑shaped curve, drag in a direction opposite to the previous direction line. Then release the mouse button.
+
+
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=ill_sdw_2curves.png
+Drawing the second point in a curve
+A. Starting to drag second smooth point
+B. Dragging away from previous direction line, creating a C curve
+C. Result after releasing mouse button
+http://help.adobe.com/en_US/illustrator/cs/using/WS3f28b00cc50711d9-2cf89fa2133b344d448-8000.html#WS55B8A5DC-5496-494d-ADA8-FFE0FA5DAEA1                 
+
+
+Relire comment les manuels décrivent le dessin en Bezier pour chaque logiciel
+
+
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=covers-manual-illustrator.png;hb=HEAD
+
+
+Le tout en poche
+
+
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=ici.png
+
+
+Is drawing curves is drawing in the mist?
+
+
+---------------------------------------------------------------------
+
+
+Point-and-click - selection systems
+mécanismes de sélections
+Question de la représentation des points, des sélections, des courbes
+
+
+LisaDraw
+
+
+
+http://toastytech.com/guis/lisadrawwrite.png
+
+
+Xerox Star 
+http://www.youtube.com/watch?v=ODZBL80JPqw
+
+
+Xerox Alto with Bravo
+http://bitsavers.informatik.uni-stuttgart.de/pdf/xerox/alto/BravoXMan.pdf
+
+
+SIL and Draw
+http://history-computer.com/Library/AltoUsersHandbook.pdf
+
+
+MacDraw 
+Sodipodi -no manual?
+Inkscape 
+KSEG 
+FontForge 
+FontLab 
+Freehand - http://www.adobe.com/products/freehand/productinfo/features/
+http://www.adobe.com/support/freehand/vectors/using_pen_tool/using_pen_tool03.html
+
+
+FontStudio Letrastudio
+http://designarchives.aiga.org/#/entries/%2Bid%3A4034/_/detail/relevance/asc/0/7/4034/letraset-package-systemletrastudio/1
+
+
+Photoshop > Illustrator 
+SK1
+LibreOffice 
+Gimp
+Scribus
+CorelDraw
+Fontographer
+Blender
+SketchUp
+Paint
+Jpicedt
+http://typism.appspot.com
+http://fontclod.meteor.com/
+
+
+Robofont
+http://support.xara.com/ : no manual svgedit (editeur de fontes en ligne) 
+http://typism.appspot.com 
+Kalliculator: http://www.kalliculator.com/ 
+font constructor: http://www.fontconstructor.com 
+rounding ufo: http://roundingufo.typemytype.com 
+ufo stretch: http://ufostretch.typemytype.com/ 
+superpolator: http://superpolator.com/          
+
+
+
+
+Spiro 
+https://github.com/monkeyiq/fontforge
+
+
+Speculations
+
+
+tester sur un dessin canonique et noter chaque différence précise. Tenter de  relater une expérience du dessin 
+- Use the Tiger example
+http://en.wikipedia.org/wiki/Comparison_of_vector_graphics_editors
+
+
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=autocad.png
+
+
+Graphical Shell prototype
+lien avec le GSp dans la mesure où on édite le tool on the spot
+AutoCAD Command line and Dynamic Input
+
+
+http://new.math.uiuc.edu/netgeom/advice/palettes.html
+
+
+Pierre: Bitmap: photoshop/gimp
+parler du manque apparent entre les deux parties (dessin, géometrie)
+disparition/disparité
+
+
+Alan Kay on OOP: http://marcusdenker.de/AlanKayOOP.html
+
+
+A few pictures of a future font editor with history interface
+http://gallery3.constantvzw.org/index.php/LGRU-Wednesday-Visual-Versioning/DSC_6105-1
+http://gallery3.constantvzw.org/index.php/LGRU-Wednesday-Visual-Versioning/DSC_6121
+http://gallery3.constantvzw.org/index.php/LGRU-Wednesday-Visual-Versioning/DSC_6119
+
+http://gallery3.constantvzw.org/var/resizes/LGRU-Wednesday/DSC_6119.JPG?m=1330165126
+
+
+Multi-level type design interfaces
+Type  design is an iterative process of refining design directions. Starting  from a better understanding of what happens when you design a  font, we  worked on a type design environment that moves more fluently  between  different scales of design: From single glyphs to letter-pairs  and  textblocks but also to move between different versions of both  digital  and hand-drawn sketches. Some of these features can be already   discovered in Fontmatrix: http://oep-h.com/fontmatrix 
+
+
+Essai visuel: dessiner une courbe de bézier.
+bezier fontographer
+
+
+8< - - -
+"L'aventure  de Pierre Bézier aurait pu s'arrêter là. Mais, à l'autre bout du monde,  des années plus tard, un groupe de développeurs liés à Apple créa un  langage adapté à la future imprimante laser conçue pour le Mac. Il  s'agissait de trouver un moyen de définir mathématiquement une courbe,  comme le tracé d'un caractère, avant de l'envoyer à l'imprimante...
+
+
+L'un  de ces développeurs, John Warnock, connaissait le travail du Français. Tout naturellement, il choisit les courbes de Bézier comme base du  langage PostScript et fonda la société Adobe. On sait comment le PostScript fit la fortune de cette start-up devenue multinationale. Et  comment le nom de Pierre Bézier fut popularisé par un autre best-seller  d'Adobe, le logiciel de dessin Illustrator. Aujourd'hui, les graphistes  et designers utilisent l'outil Plume et tracent des courbes de Bézier  sans avoir la moindre idée de leur origine, un peu comme monsieur  Jourdain faisait de la prose sans le savoir..."
+- - - >8
+ http://rocbo.lautre.net/bezier/pb-indus.htm
+ 
+ 
+Femke's restitution of co-position LGRU session
+http://blogs.lgru.net/ft/theme/co-position/100-idees
+
+
+--------------------------------
+
+
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=ill_sdw_edit_closed_shape.png
+
+
+Question of time in the way of drawing - pauses - relationship wth the stroke and the time of the drawing of the stroke
+what happened when you want to pause your pen?
+
+
+
+
+
+
+
+http://git.constantvzw.org/?p=lgru.reader.drawing-curved.git;a=blob_plain;f=a-drawing.png
+
+
+Expliquer les différents types de points
+sur un "d"
+avec des tensions variables
+
+
+-----------------
+
+
+Some quotes 
+"And   each has a different palette (a.k.a. drawing toolbar) reflecting a   different philosophy of what constitutes a minimal set of drawing   tools."
+
+
+"Not every fat-bits tool since works the way it did in MacPaint."
+
+
+"(on   Ipaint palette) But the spline tool takes some getting used to, and it   helps to know how Bezier splines work." [...] "Circles are special   ellipses. Most surprisingly, circles don't have a center or radius. You   have to guess." [...] If it matters how your figures look, use proper   geometry drawing tools, many of which are also free. 
+
+
+(on   vector graphics) "the figure on the screen can re-addressed with a   picking tool, and edited. For example, it can be deleted. The document   stores only the data needed for the Bresenham line to be drawn."
+
+
+(on   word's whiteboard) "Curiously, the Whiteboard uses an advanced feature   more proper to advanced tools, like Photoshop, namely so-called layers  .  This permits a level of interactivity of several users which is not   typical of blackboard, or real whiteboards. This makes its use   non-intuitive."
+
+
+(on   KSEG) "KSEG creates new points with the right mouse, and that is where   geometry begins, with points! Everything else is a construction. "  [...]  "Suppose you specify three points (hold the shift key as you  select  three already constructed points), what do they specifiy  geometrically  speaking? The options that are available. Thus you can  click the segment  (you get a polygon), the lines (you get a  tri-lateral), the arc (you  get an arc). But why not circle. Because you  should construct your  circle from more primitive constructions. Baran  is a minimimalist, in  many ways."
+
+
+wikipedia - spline
+Pierre Bézier, dans Courbes et surfaces pour la CFAO, Techniques de l'ingénieur, Mathématiques pour l'ingénieur, précise
+«  Le mot anglais spline a malencontreusement prévalu, alors qu'il se traduit en français par les substantifs latte ou baguette. »
+
+The Oxford English Dictionnary 1989 donne les définitions suivantes pour le mot spline:
+«  a long narrow, and relatively thin piece or strip of wood, metal, etc.; a slat. A flexible strip of wood or hard rubber used by draftsmen in laying out broad sweeping curves, especially in railroad work. »
+Les menuisiers, charpentiers et autres escaliéteurs auront reconnu la cerce, latte souple en bois bien de fil qui sert à tracer les courbes quelconques (Courbes harmonieuses passant par un certain nombre de points mais ne pouvant être tracées à l'aide du compas).
+Le curvigraphe est aussi un synonyme d'un tel pistolet de dessin souple.
+
+http://en.wikipedia.org/wiki/Spline_(mathematics)
+Before computers were used, numerical calculations were done by hand. Functions such as the step function were used but polynomials were generally preferred. With the advent of computers, splines first replaced polynomials in interpolation, and then served in construction of smooth and flexible shapes in computer graphics.[5]
+It is commonly accepted that the first mathematical reference to splines is the 1946 paper by Schoenberg,[6] which is probably the first place that the word "spline" is used in connection with smooth, piecewise polynomial approximation. However, the ideas have their roots in the aircraft and shipbuilding industries. In the foreword to (Bartels et al., 1987),[7] Robin Forrest describes "lofting", a technique used in the British aircraft industry during World War II to construct templates for airplanes by passing thin wooden strips (called "splines") through points laid out on the floor of a large design loft, a technique borrowed from ship-hull design. For years the practice of ship design had employed models to design in the small. The successful design was then plotted on graph paper and the key points of the plot were re-plotted on larger graph paper to full size. The thin wooden strips provided an interpolation of the key points into smooth curves. The strips would be held in place at discrete points (using lead weights, called "ducks" by Forrest (see Spline Ducks for illustration); Schoenberg used "dogs" or "rats") and between these points would assume shapes of minimum strain energy. According to Forrest, one possible impetus for a mathematical model for this process was the potential loss of the critical design components for an entire aircraft should the loft be hit by an enemy bomb. This gave rise to "conic lofting", which used conic sections to model the position of the curve between the ducks. Conic lofting was replaced by what we would call splines in the early 1960s based on work by J. C. Ferguson[8] at Boeing and (somewhat later) by M.A. Sabin at British Aircraft Corporation.
+The word "spline" was originally in an East Anglian dialect.[9]
+The use of splines for modeling automobile bodies seems to have several independent beginnings. Credit is claimed on behalf of de Casteljau at Citroën, Pierre Bézier at Renault, and Birkhoff,[10] Garabedian, and de Boor at General Motors (see Birkhoff and de Boor, 1965),[11] all for work occurring in the very early 1960s or late 1950s. At least one of de Casteljau's papers was published, but not widely, in 1959. De Boor's work at General Motors resulted in a number of papers being published in the early 1960s, including some of the fundamental work on B-splines.[12]
+Work was also being done at Pratt & Whitney Aircraft, where two of the authors of the first book-length treatment of splines (Ahlberg et al., 1967)[13] were employed; and the David Taylor Model Basin, by Feodor Theilheimer. The work at General Motors is detailed nicely in Birkhoff (1990) and Young (1997).[14] Davis (1997) summarizes some of this material.
+
+
