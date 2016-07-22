@@ -2,7 +2,9 @@
 
 Drawing curved is a visual essay being prepared for the [LGRU reader](http://reader.lgru.net/pages/index/)
 
-Current sources and versions on <http://reader.lgru.net/texts/drawing-curved/>
+Current work is on <http://drawingcurved.osp.kitchen/>
+
+Old sources and versions on <http://reader.lgru.net/texts/drawing-curved/>
 
 Work in progress.
 
